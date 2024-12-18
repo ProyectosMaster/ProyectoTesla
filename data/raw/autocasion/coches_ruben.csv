@@ -1,0 +1,309 @@
+modelo,precio,kilometraje,matriculacion,motor,color
+Model S 100D,31.990 €,24.000,2015,Eléctrico,azul
+Model S 100D,33.999 €,39.000,2023,Eléctrico,azul
+Model S 100D,48.900 €,96.000,2019,Eléctrico,azul
+Model S 100D,31.500 €,49.000,2021,Eléctrico,azul
+Model S 100D,38.890 €,89.831,2019,Eléctrico,azul
+Model S 100D,28.490 €,47.479,2020,Eléctrico,azul
+Model S 100D,21.500 €,129.446,2020,Eléctrico,azul
+Model S 100D,28.990 €,39.413,2019,Eléctrico,azul
+Model S 100D,35.475 €,63.000,2021,Eléctrico,azul
+Model S 100D,49.995 €,25.700,2023,Eléctrico,azul
+Model S 100D,26.940 €,124.839,2019,Eléctrico,azul
+Model S 100D,34.900 €,240.000,2017,Eléctrico,azul
+Model S 100D,31.990 €,24.000,2015,Eléctrico,azul
+Model S 100D,35.000 €,220.000,2014,Eléctrico,azul
+Model S 100D,42.900 €,109.900,2020,Eléctrico,azul
+Model S 100D,31.990 €,60.000,2021,Eléctrico,azul
+Model S 100D,42.500 €,2.490,2024,Eléctrico,azul
+Model 3 RWD,27.950 €,57.000,2022,Eléctrico,azul
+Model 3 RWD,29.700 €,21.318,2020,Eléctrico,azul
+Model 3 RWD,37.900 €,74.000,2017,Eléctrico,azul
+Model 3 RWD,27.450 €,93.000,2021,Eléctrico,azul
+Model 3 RWD,27.850 €,65.000,2022,Eléctrico,azul
+Model 3 RWD,27.450 €,93.000,2021,Eléctrico,azul
+Model 3 RWD,54.900 €,58.000,2020,Eléctrico,azul
+Model 3 RWD,25.000 €,137.183,2019,Eléctrico,azul
+Model 3 RWD,27.850 €,65.000,2022,Eléctrico,azul
+Model 3 RWD,27.950 €,57.000,2022,Eléctrico,azul
+Model 3 RWD,49.999 €,35.000,2020,Eléctrico,azul
+Model 3 RWD,37.000 €,43.000,2021,Eléctrico,azul
+Model 3 RWD,24.995 €,78.713,2021,Eléctrico,azul
+Model 3 RWD,25.990 €,63.000,2022,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,28.990 €,57.000,2021,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,44.800 €,170.000,2019,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,62.490 €,34.162,2020,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,60.900 €,52.000,2020,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,26.900 €,78.000,2019,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,33.100 €,33.740,2019,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,40.500 €,334,2024,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,35.500 €,12.122,2024,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,32.990 €,63.776,2021,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,26.999 €,71.000,2019,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,79.990 €,18.000,2021,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,43.990 €,88.024,2016,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,28.490 €,84.188,2020,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,31.490 €,44.998,2023,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,54.990 €,85.000,2019,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,89.900 €,16.000,2023,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,33.900 €,77.000,2020,Eléctrico,blanco
+Model S P100D,49.700 €,56.000,2017,Eléctrico,blanco
+Model S P100D,39.900 €,8.900,2022,Eléctrico,blanco
+Model S P100D,52.900 €,64.500,2019,Eléctrico,blanco
+Model S P100D,27.990 €,53.000,2019,Eléctrico,blanco
+Model S P100D,32.990 €,36.000,2021,Eléctrico,blanco
+Model S P100D,47.900 €,52.000,2017,Eléctrico,blanco
+Model S P100D,27.490 €,27.277,2020,Eléctrico,blanco
+Model S P100D,44.990 €,7.895,2024,Eléctrico,blanco
+Model S P100D,28.990 €,169.800,2019,Eléctrico,blanco
+Model S P100D,33.990 €,60.000,2022,Eléctrico,blanco
+Model S P100D,28.850 €,77.000,2020,Eléctrico,blanco
+Model S P100D,49.900 €,1,2024,Eléctrico,blanco
+Model S P100D,42.950 €,9.294,2023,Eléctrico,blanco
+Model S P100D,37.990 €,421,2024,Eléctrico,blanco
+Model S P100D,42.990 €,140.000,2020,Eléctrico,blanco
+Model S P100D,33.975 €,69.000,2021,Eléctrico,blanco
+Model Y RWD,39.900 €,46.686,2023,Eléctrico,blanco
+Model Y RWD,32.590 €,78.436,2020,Eléctrico,blanco
+Model Y RWD,37.500 €,39.900,2021,Eléctrico,blanco
+Model Y RWD,28.850 €,77.000,2020,Eléctrico,blanco
+Model Y RWD,85.200 €,4.430,2023,Eléctrico,blanco
+Model Y RWD,41.900 €,51.900,2022,Eléctrico,blanco
+Model Y RWD,42.999 €,110.000,2019,Eléctrico,blanco
+Model Y RWD,31.890 €,98.226,2021,Eléctrico,blanco
+Model Y RWD,25.990 €,180.000,2019,Eléctrico,blanco
+Model Y RWD,32.500 €,14.000,2020,Eléctrico,blanco
+Model Y RWD,33.990 €,42.901,2021,Eléctrico,blanco
+Model Y RWD,49.900 €,1,2024,Eléctrico,blanco
+Model Y RWD,33.900 €,77.000,2020,Eléctrico,blanco
+Model Y RWD,87.400 €,15.040,2023,Eléctrico,blanco
+Model Y RWD,39.900 €,79.900,2018,Eléctrico,blanco
+Model Y RWD,39.990 €,33.900,2023,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,23.900 €,95.000,2019,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,26.850 €,113.000,2020,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,35.900 €,55.000,2021,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,43.900 €,48.523,2022,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,26.999 €,70.000,2019,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,46.990 €,7.925,2024,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,35.900 €,58.000,2022,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,37.600 €,37.418,2022,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,29.900 €,116.000,2020,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,31.850 €,26.000,2020,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,26.850 €,113.000,2020,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,37.900 €,28.000,2019,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,27.500 €,120.000,2020,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,37.500 €,49.900,2022,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,29.900 €,88.000,2019,Eléctrico,blanco
+Model 3 Standard Range Plus RWD,36.500 €,56.000,2021,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,31.850 €,26.000,2020,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,26.900 €,88.000,2021,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,28.000 €,40.500,2020,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,83.000 €,9.094,2023,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,24.550 €,188.000,2015,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,28.990 €,57.000,2021,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,21.800 €,124.650,2020,Eléctrico,blanco
+Model 3 Long-Range Dual Motor Performance AWD,31.999 €,69.855,2019,Eléctrico,granate
+Model 3 Long-Range Dual Motor Performance AWD,29.995 €,88.000,2018,Eléctrico,granate
+Model 3 Long-Range Dual Motor AWD,26.990 €,138.000,2020,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,28.995 €,114.000,2016,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,36.490 €,97.000,2017,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,79.900 €,15.000,2022,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,43.990 €,84.179,2018,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,21.500 €,128.084,2020,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,37.890 €,55.852,2023,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,54.900 €,58.000,2021,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,37.500 €,130.000,2017,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,39.890 €,114.114,2019,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,28.995 €,175.268,2018,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,37.490 €,58.431,2021,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,55.900 €,51.426,2019,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,32.490 €,44.900,2021,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,29.990 €,68.000,2022,Eléctrico,gris
+Model 3 Long-Range Dual Motor AWD,22.450 €,113.154,2019,Eléctrico,gris
+Model S 100D AWD,43.500 €,125.000,2017,Eléctrico,gris
+Model S 100D AWD,58.498 €,68.000,2019,Eléctrico,gris
+Model S 100D AWD,46.500 €,37.500,2019,Eléctrico,gris
+Model S 100D AWD,25.800 €,88.000,2019,Eléctrico,gris
+Model S 100D AWD,36.900 €,59.990,2021,Eléctrico,gris
+Model S 100D AWD,46.500 €,37.500,2019,Eléctrico,gris
+Model S 100D AWD,79.900 €,15.000,2022,Eléctrico,gris
+Model S 100D AWD,34.990 €,30.686,2021,Eléctrico,gris
+Model S 100D AWD,34.990 €,99.000,2017,Eléctrico,gris
+Model S 100D AWD,32.300 €,49.990,2022,Eléctrico,gris
+Model S 100D AWD,36.800 €,26.548,2023,Eléctrico,gris
+Model S 100D AWD,39.900 €,59.000,2021,Eléctrico,gris
+Model S 100D AWD,259.900 ,1,2024,Eléctrico,gris
+Model S 100D AWD,36.500 €,46.500,2021,Eléctrico,gris
+Model S 100D AWD,25.850 €,128.000,2020,Eléctrico,gris
+Model S 100D AWD,28.000 €,175.000,2015,Eléctrico,gris
+Model 3 Estándar Plus RWD,25.850 €,128.000,2020,Eléctrico,gris
+Model 3 Estándar Plus RWD,38.990 €,74.862,2020,Eléctrico,gris
+Model S 100D,25.990 €,98.000,2015,Eléctrico,marron
+Model S 100D,25.990 €,98.000,2015,Eléctrico,marron
+Model S 100D,20.999 €,382.100,2017,Eléctrico,marron
+Model S 100D,26.995 €,60.000,2016,Eléctrico,marron
+Model S 100D,32.000 €,32.000,2014,Eléctrico,marron
+Model S 75D 4WD,38.990 €,143.350,2018,Eléctrico,negro
+Model S 75D 4WD,38.990 €,143.350,2018,Eléctrico,negro
+Model S 75D 4WD,45.900 €,49.000,2019,Eléctrico,negro
+Model S 75D 4WD,34.500 €,70.604,2018,Eléctrico,negro
+Model S 75D 4WD,24.900 €,104.900,2019,Eléctrico,negro
+Model S 75D 4WD,36.900 €,25.789,2022,Eléctrico,negro
+Model S 75D 4WD,56.990 €,66.066,2020,Eléctrico,negro
+Model S 75D 4WD,24.995 €,146.765,2019,Eléctrico,negro
+Model S 75D 4WD,42.890 €,89.500,2019,Eléctrico,negro
+Model S 75D 4WD,35.900 €,Eléctrico,IGIC Canarias,2024,negro
+Model S 75D 4WD,36.500 €,36.413,2022,Eléctrico,negro
+Model S 75D 4WD,49.900 €,133.500,2016,Eléctrico,negro
+Model S 75D 4WD,59.900 €,10.000,2022,Eléctrico,negro
+Model S 75D 4WD,29.960 €,152.038,2017,Eléctrico,negro
+Model S 75D 4WD,44.999 €,30.000,2022,Eléctrico,negro
+Model S 75D 4WD,48.600 €,78.590,2016,Eléctrico,negro
+Model 3 Standard RWD Plus,31.800 €,124.645,2020,Eléctrico,negro
+Model 3 Standard RWD Plus,36.900 €,55.000,2021,Eléctrico,negro
+Model 3 Standard RWD Plus,44.900 €,129.200,2017,Eléctrico,negro
+Model 3 Standard RWD Plus,44.970 €,39.847,2022,Eléctrico,negro
+Model 3 Standard RWD Plus,24.990 €,99.816,2019,Eléctrico,negro
+Model 3 Standard RWD Plus,21.990 €,143.205,2019,Eléctrico,negro
+Model 3 Standard RWD Plus,36.900 €,55.000,2021,Eléctrico,negro
+Model 3 Standard RWD Plus,23.500 €,75.000,2019,Eléctrico,negro
+Model 3 Standard RWD Plus,35.999 €,79.000,2019,Eléctrico,negro
+Model 3 Standard RWD Plus,26.975 €,109.000,2017,Eléctrico,negro
+Model 3 Standard RWD Plus,29.475 €,72.000,2021,Eléctrico,negro
+Model 3 Standard RWD Plus,21.995 €,150.000,2019,Eléctrico,negro
+Model 3 Standard RWD Plus,47.990 €,7.000,2024,Eléctrico,negro
+Model 3 Standard RWD Plus,49.900 €,20.000,2022,Eléctrico,negro
+Model 3 Standard RWD Plus,32.490 €,68.867,2016,Eléctrico,negro
+Model 3 Standard RWD Plus,33.990 €,40.000,2021,Eléctrico,negro
+Model Y RWD,39.990 €,17.000,2023,Eléctrico,negro
+Model Y RWD,33.990 €,20.000,2022,Eléctrico,negro
+Model Y RWD,33.950 €,33.340,2021,Eléctrico,negro
+Model Y RWD,31.999 €,114.000,2018,Eléctrico,negro
+Model Y RWD,45.900 €,155.000,2018,Eléctrico,negro
+Model Y RWD,59.900 €,54.500,2019,Eléctrico,negro
+Model Y RWD,89.900 €,10.000,2023,Eléctrico,negro
+Model Y RWD,34.490 €,56.250,2020,Eléctrico,negro
+Model Y RWD,35.500 €,68.295,2018,Eléctrico,negro
+Model Y RWD,24.900 €,88.000,2019,Eléctrico,negro
+Model Y RWD,34.500 €,111.470,2018,Eléctrico,negro
+Model Y RWD,39.900 €,65.000,2021,Eléctrico,negro
+Model Y RWD,51.900 €,59.999,2020,Eléctrico,negro
+Model Y RWD,89.900 €,10.000,2023,Eléctrico,negro
+Model Y RWD,34.500 €,44.974,2021,Eléctrico,negro
+Model Y RWD,52.900 €,14.000,2024,Eléctrico,negro
+Model Y Performance AWD,37.990 €,47.000,2022,Eléctrico,negro
+Model Y Performance AWD,21.390 €,136.000,2019,Eléctrico,negro
+Model Y Performance AWD,41.900 €,38.000,2022,Eléctrico,negro
+Model Y Performance AWD,30.950 €,65.500,2022,Eléctrico,negro
+Model Y Performance AWD,27.500 €,140.000,2019,Eléctrico,negro
+Model 3 Long-Range Dual Motor AWD,35.850 €,39.494,2021,Eléctrico,plata
+Model 3 Long-Range Dual Motor AWD,40.900 €,37.900,2021,Eléctrico,plata
+Model 3 Long-Range Dual Motor AWD,38.990 €,Eléctrico,Km0,2023,plata
+Model 3 Long-Range Dual Motor Performance AWD,29.990 €,123.000,2019,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,29.900 €,61.046,2019,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,21.990 €,233.000,2014,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,34.400 €,57.522,2021,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,29.990 €,60.000,2020,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,54.900 €,93.000,2020,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,29.990 €,123.000,2019,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,31.990 €,45.171,2021,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,33.950 €,96.000,2021,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,33.990 €,74.910,2021,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,59.999 €,119.990,2017,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,25.490 €,87.000,2019,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,52.900 €,35,2024,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,32.990 €,39.398,2022,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,49.900 €,35,2024,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,26.850 €,110.000,2020,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,27.900 €,125.000,2019,Eléctrico,rojo
+Model 3 Gran Autonomía AWD,26.850 €,110.000,2020,Eléctrico,rojo
+Model 3 Gran Autonomía AWD,38.800 €,57,2024,Eléctrico,rojo
+Model 3 Gran Autonomía AWD,49.900 €,109.000,2018,Eléctrico,rojo
+Model 3 Gran Autonomía AWD,32.990 €,320.000,2017,Eléctrico,rojo
+Model 3 Gran Autonomía AWD,38.900 €,39.000,2019,Eléctrico,rojo
+Model 3 Long-Range Dual Motor AWD,25.990 €,63.000,2022,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,33.999 €,39.000,2023,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,31.500 €,49.000,2021,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,38.890 €,89.831,2019,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,28.990 €,39.413,2019,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,35.475 €,63.000,2021,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,49.995 €,25.700,2023,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,26.940 €,124.839,2019,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,31.990 €,24.000,2015,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,35.000 €,220.000,2014,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,42.900 €,109.900,2020,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,27.950 €,57.000,2022,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,27.450 €,93.000,2021,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,27.850 €,65.000,2022,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,27.450 €,93.000,2021,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,54.900 €,58.000,2020,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,25.000 €,137.183,2019,Eléctrico,azul
+Model 3 RWD,27.850 €,65.000,2022,Eléctrico,azul
+Model 3 RWD,27.950 €,57.000,2022,Eléctrico,azul
+Model 3 RWD,37.000 €,43.000,2021,Eléctrico,azul
+Model 3 RWD,25.990 €,63.000,2022,Eléctrico,azul
+Model 3 Long-Range Dual Motor AWD,28.990 €,57.000,2021,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,26.999 €,71.000,2019,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,27.990 €,53.000,2019,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,47.900 €,52.000,2017,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,28.990 €,169.800,2019,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,28.850 €,77.000,2020,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,33.975 €,69.000,2021,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,39.900 €,46.686,2023,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,37.500 €,39.900,2021,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,28.850 €,77.000,2020,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,31.890 €,98.226,2021,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,39.990 €,33.900,2023,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,26.850 €,113.000,2020,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,35.900 €,55.000,2021,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,26.999 €,70.000,2019,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,35.900 €,58.000,2022,Eléctrico,blanco
+Model 3 Long-Range Dual Motor AWD,37.600 €,37.418,2022,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,31.850 €,26.000,2020,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,26.850 €,113.000,2020,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,31.850 €,26.000,2020,Eléctrico,blanco
+Model 3 Gran Autonomía AWD,28.990 €,57.000,2021,Eléctrico,blanco
+Model S 75D AWD,29.995 €,88.000,2018,Eléctrico,granate
+Model S 100d Gran Autonomía Autopilot,39.890 €,114.114,2019,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,37.490 €,58.431,2021,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,55.900 €,51.426,2019,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,22.450 €,113.154,2019,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,58.498 €,68.000,2019,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,46.500 €,37.500,2019,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,25.800 €,88.000,2019,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,36.900 €,59.990,2021,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,46.500 €,37.500,2019,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,32.300 €,49.990,2022,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,36.500 €,46.500,2021,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,25.850 €,128.000,2020,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,28.000 €,175.000,2015,Eléctrico,gris
+Model S 100d Gran Autonomía Autopilot,25.850 €,128.000,2020,Eléctrico,gris
+Model S 100D,25.990 €,98.000,2015,Eléctrico,marron
+Model S 100D,25.990 €,98.000,2015,Eléctrico,marron
+Model S 100D,26.995 €,60.000,2016,Eléctrico,marron
+Model S 100D,32.000 €,32.000,2014,Eléctrico,marron
+Model S 75D 4WD,38.990 €,143.350,2018,Eléctrico,negro
+Model S 75D 4WD,38.990 €,143.350,2018,Eléctrico,negro
+Model S 75D 4WD,49.900 €,133.500,2016,Eléctrico,negro
+Model S 75D 4WD,59.900 €,10.000,2022,Eléctrico,negro
+Model S 75D 4WD,36.900 €,55.000,2021,Eléctrico,negro
+Model S 75D 4WD,44.900 €,129.200,2017,Eléctrico,negro
+Model S 75D 4WD,23.500 €,75.000,2019,Eléctrico,negro
+Model S 75D 4WD,26.975 €,109.000,2017,Eléctrico,negro
+Model S 75D 4WD,29.475 €,72.000,2021,Eléctrico,negro
+Model S 75D 4WD,21.995 €,150.000,2019,Eléctrico,negro
+Model S 75D 4WD,33.990 €,40.000,2021,Eléctrico,negro
+Model S 75D 4WD,59.900 €,54.500,2019,Eléctrico,negro
+Model S 75D 4WD,51.900 €,59.999,2020,Eléctrico,negro
+Model S 75D 4WD,37.990 €,47.000,2022,Eléctrico,negro
+Model S 75D 4WD,21.390 €,136.000,2019,Eléctrico,negro
+Model S 75D 4WD,30.950 €,65.500,2022,Eléctrico,negro
+Model 3 Long-Range Dual Motor AWD,35.850 €,39.494,2021,Eléctrico,plata
+Model 3 Long-Range Dual Motor AWD,40.900 €,37.900,2021,Eléctrico,plata
+Model 3 Long-Range Dual Motor AWD,38.990 €,Eléctrico,Km0,2023,plata
+Model 3 Long-Range Dual Motor Performance AWD,29.990 €,123.000,2019,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,29.990 €,123.000,2019,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,33.990 €,74.910,2021,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,26.850 €,110.000,2020,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,27.900 €,125.000,2019,Eléctrico,rojo
+Model 3 Long-Range Dual Motor Performance AWD,26.850 €,110.000,2020,Eléctrico,rojo
