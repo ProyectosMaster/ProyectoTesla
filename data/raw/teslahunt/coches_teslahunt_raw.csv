@@ -1,0 +1,683 @@
+modelo,precio,matriculacion,kilometraje,color,pais
+Tesla Model 3,"35,100€",2023,"39,315kms",blanco,Spain
+Tesla Model 3,"36,470€",2025,0kms,blanco,Spain
+Tesla Model 3,"36,700€",2024,"1,817kms",blanco,Spain
+Tesla Model 3,"37,000€",2024,21kms,blanco,Spain
+Tesla Model 3,"37,300€",2024,676kms,blanco,Spain
+Tesla Model 3,"37,300€",2024,692kms,blanco,Spain
+Tesla Model 3,"37,500€",2024,14kms,blanco,Spain
+Tesla Model 3,"37,520€",2025,0kms,blanco,Spain
+Tesla Model 3,"37,520€",2024,0kms,blanco,Spain
+Tesla Model 3,"38,070€",2025,0kms,blanco,Spain
+Tesla Model 3,"38,070€",2024,12kms,blanco,Spain
+Tesla Model 3,"38,870€",2025,0kms,blanco,Spain
+Tesla Model 3,"39,120€",2024,0kms,blanco,Spain
+Tesla Model 3,"39,420€",2025,12kms,blanco,Spain
+Tesla Model 3,"39,420€",2024,0kms,blanco,Spain
+Tesla Model 3 Long Range RWD,"41,470€",2025,0kms,blanco,Spain
+Tesla Model Y Standard Range,"44,260€",2025,0kms,blanco,Spain
+Tesla Model Y Standard Range,"44,490€",2024,"6,282kms",blanco,Spain
+Tesla Model Y Long Range RWD,"45,560€",2024,"7,986kms",blanco,Spain
+Tesla Model Y Long Range RWD,"45,560€",2024,"7,996kms",blanco,Spain
+Tesla Model Y Standard Range,"45,750€",2024,"1,317kms",blanco,Spain
+Tesla Model 3 Long Range AWD,"45,980€",2024,"2,204kms",blanco,Spain
+Tesla Model Y Long Range RWD,"46,930€",2024,"1,991kms",blanco,Spain
+Tesla Model 3 Long Range AWD,"46,940€",2024,"4,790kms",blanco,Spain
+Tesla Model Y Long Range RWD,"47,580€",2024,"4,462kms",blanco,Spain
+Tesla Model 3 Performance,"47,700€",2023,"29,444kms",blanco,Spain
+Tesla Model Y Long Range AWD,"48,110€",2023,"7,085kms",blanco,Spain
+Tesla Model Y Long Range RWD,"48,210€",2024,"2,376kms",blanco,Spain
+Tesla Model 3 Long Range AWD,"48,340€",2024,223kms,blanco,Spain
+Tesla Model 3 Long Range AWD,"48,760€",2025,0kms,blanco,Spain
+Tesla Model Y Long Range AWD,"49,040€",2023,"2,036kms",blanco,Spain
+Tesla Model Y Long Range RWD,"49,160€",2025,2kms,blanco,Spain
+Tesla Model Y Long Range RWD,"49,790€",2024,211kms,blanco,Spain
+Tesla Model 3 Long Range AWD,"49,810€",2025,0kms,blanco,Spain
+Tesla Model Y Long Range RWD,"49,830€",2024,26kms,blanco,Spain
+Tesla Model Y Long Range AWD,"49,840€",2024,400kms,blanco,Spain
+Tesla Model 3 Long Range AWD,"49,930€",2024,440kms,blanco,Spain
+Tesla Model 3 Long Range AWD,"50,110€",2024,0kms,blanco,Spain
+Tesla Model Y Long Range AWD,"50,560€",2024,"3,179kms",blanco,Spain
+Tesla Model 3 Long Range AWD,"51,160€",2025,0kms,blanco,Spain
+Tesla Model 3 Long Range AWD,"51,410€",2025,0kms,blanco,Spain
+Tesla Model 3 Long Range AWD,"51,710€",2024,0kms,blanco,Spain
+Tesla Model Y Long Range AWD,"51,760€",2025,0kms,blanco,Spain
+Tesla Model Y Long Range AWD,"51,760€",2024,0kms,blanco,Spain
+Tesla Model Y Long Range AWD,"51,760€",2023,0kms,blanco,Spain
+Tesla Model 3 Performance,"52,300€",2024,"3,543kms",blanco,Spain
+Tesla Model 3 Long Range AWD,"52,460€",2024,20kms,blanco,Spain
+Tesla Model Y Long Range AWD,"52,810€",2025,0kms,blanco,Spain
+Tesla Model Y Long Range AWD,"53,050€",2024,26kms,blanco,Spain
+Tesla Model Y Long Range AWD,"54,910€",2024,565kms,blanco,Spain
+Tesla Model Y Long Range AWD,"55,070€",2025,7kms,blanco,Spain
+Tesla Model Y Long Range AWD,"55,070€",2024,10kms,blanco,Spain
+Tesla Model Y Long Range AWD,"55,070€",2023,28kms,blanco,Spain
+Tesla Model Y Performance,"55,220€",2024,"2,276kms",blanco,Spain
+Tesla Model Y Long Range AWD,"55,460€",2024,9kms,blanco,Spain
+Tesla Model Y Performance,"55,710€",2024,0kms,blanco,Spain
+Tesla Model Y Long Range AWD,"56,420€",2025,0kms,blanco,Spain
+Tesla Model 3 Performance,"58,470€",2024,0kms,blanco,Spain
+Tesla Model Y Performance,"58,500€",2024,7kms,blanco,Spain
+Tesla Model Y Performance,"58,970€",2025,0kms,blanco,Spain
+Tesla Model S,"79,500€",2023,"13,178kms",blanco,Spain
+Tesla Model S Plaid,"81,700€",2023,"36,085kms",blanco,Spain
+Tesla Model S,"82,010€",2023,"2,497kms",blanco,Spain
+Tesla Model X Plaid,"83,500€",2023,"15,035kms",blanco,Spain
+Tesla Model S,"84,400€",2023,"6,300kms",blanco,Spain
+Tesla Model S Plaid,"87,400€",2023,"15,040kms",blanco,Spain
+Tesla Model X Plaid,"87,600€",2023,"20,073kms",blanco,Spain
+Tesla Model X,"96,120€",2024,"3,632kms",blanco,Spain
+Tesla Model S,"99,600€",2023,503kms,blanco,Spain
+Tesla Model X,"100,580€",2024,"5,519kms",blanco,Spain
+Tesla Model X,"101,230€",2024,953kms,blanco,Spain
+Tesla Model S,"102,270€",2023,0kms,blanco,Spain
+Tesla Model S,"102,270€",2023,98kms,blanco,Spain
+Tesla Model X,"102,840€",2023,"1,405kms",blanco,Spain
+Tesla Model X,"104,370€",2023,31kms,blanco,Spain
+Tesla Model X Plaid,"106,270€",2024,33kms,blanco,Spain
+Tesla Model X,"107,210€",2023,"3,253kms",blanco,Spain
+Tesla Model X,"110,270€",2023,0kms,blanco,Spain
+Tesla Model X Plaid,"111,670€",2024,59kms,blanco,Spain
+Tesla Model X,"113,570€",2024,0kms,blanco,Spain
+Tesla Model X,"114,670€",2024,0kms,blanco,Spain
+Tesla Model X,"115,670€",2023,0kms,blanco,Spain
+Tesla Model X,"118,070€",2023,0kms,blanco,Spain
+Tesla Model X,"118,070€",2023,92kms,blanco,Spain
+Tesla Model X Plaid,"121,870€",2024,0kms,blanco,Spain
+Tesla Model 3,"36,270€",2024,"6,562kms",azul,Spain
+Tesla Model 3,"36,470€",2024,"5,580kms",azul,Spain
+Tesla Model 3,"37,770€",2025,0kms,azul,Spain
+Tesla Model 3 Long Range AWD,"37,900€",2022,"20,049kms",azul,Spain
+Tesla Model 3,"39,120€",2024,0kms,azul,Spain
+Tesla Model 3,"39,370€",2024,12kms,azul,Spain
+Tesla Model Y Standard Range,"44,590€",2024,"6,998kms",azul,Spain
+Tesla Model Y Standard Range,"45,560€",2025,0kms,azul,Spain
+Tesla Model Y Standard Range,"45,990€",2024,"5,128kms",azul,Spain
+Tesla Model Y Standard Range,"47,660€",2025,4kms,azul,Spain
+Tesla Model 3 Long Range AWD,"49,060€",2024,25kms,azul,Spain
+Tesla Model Y Long Range RWD,"49,410€",2025,0kms,azul,Spain
+Tesla Model 3 Long Range AWD,"49,990€",2024,"3,362kms",azul,Spain
+Tesla Model 3 Long Range AWD,"50,060€",2025,0kms,azul,Spain
+Tesla Model 3 Long Range AWD,"50,060€",2024,0kms,azul,Spain
+Tesla Model Y Long Range AWD,"51,020€",2024,"2,501kms",azul,Spain
+Tesla Model 3 Long Range AWD,"51,110€",2025,0kms,azul,Spain
+Tesla Model 3 Long Range AWD,"51,110€",2024,15kms,azul,Spain
+Tesla Model 3 Long Range AWD,"51,410€",2025,0kms,azul,Spain
+Tesla Model 3 Long Range AWD,"51,410€",2024,0kms,azul,Spain
+Tesla Model Y Long Range AWD,"51,420€",2024,"2,857kms",azul,Spain
+Tesla Model 3 Long Range AWD,"51,660€",2024,0kms,azul,Spain
+Tesla Model X 100D,"52,000€",2018,"108,044kms",azul,Spain
+Tesla Model Y Performance,"56,810€",2024,612kms,azul,Spain
+Tesla Model Y Performance,"58,970€",2024,9kms,azul,Spain
+Tesla Model 3 Performance,"59,770€",2025,0kms,azul,Spain
+Tesla Model S,"88,990€",2023,"6,196kms",azul,Spain
+Tesla Model S,"90,610€",2024,792kms,azul,Spain
+Tesla Model X,"91,210€",2023,"1,703kms",azul,Spain
+Tesla Model X,"112,770€",2024,20kms,azul,Spain
+Tesla Model S Plaid,"115,680€",2024,21kms,azul,Spain
+Tesla Model 3 Long Range AWD,"31,400€",2019,"60,048kms",negro,Spain
+Tesla Model 3,"31,600€",2022,"15,290kms",negro,Spain
+Tesla Model S 75D,"33,500€",2018,"70,614kms",negro,Spain
+Tesla Model S 75D,"34,200€",2018,"68,302kms",negro,Spain
+Tesla Model 3 Long Range AWD,"34,900€",2021,"76,956kms",negro,Spain
+Tesla Model 3 Long Range AWD,"36,300€",2021,"42,189kms",negro,Spain
+Tesla Model 3,"37,310€",2024,"5,656kms",negro,Spain
+Tesla Model 3 Performance,"39,600€",2020,"40,205kms",negro,Spain
+Tesla Model Y Standard Range,"42,750€",2024,"5,950kms",negro,Spain
+Tesla Model 3 Long Range RWD,"42,770€",2025,0kms,negro,Spain
+Tesla Model Y Standard Range,"43,440€",2024,"2,798kms",negro,Spain
+Tesla Model 3 Long Range RWD,"43,820€",2025,0kms,negro,Spain
+Tesla Model 3 Long Range RWD,"44,370€",2025,9kms,negro,Spain
+Tesla Model Y Standard Range,"44,970€",2024,"5,091kms",negro,Spain
+Tesla Model Y Standard Range,"45,560€",2024,0kms,negro,Spain
+Tesla Model Y Performance,"46,800€",2023,"48,582kms",negro,Spain
+Tesla Model 3 Long Range AWD,"48,360€",2024,13kms,negro,Spain
+Tesla Model 3 Long Range AWD,"48,570€",2024,223kms,negro,Spain
+Tesla Model 3 Long Range AWD,"50,060€",2025,0kms,negro,Spain
+Tesla Model 3 Long Range AWD,"50,060€",2024,0kms,negro,Spain
+Tesla Model Y Long Range RWD,"50,160€",2024,9kms,negro,Spain
+Tesla Model 3 Long Range AWD,"51,110€",2024,0kms,negro,Spain
+Tesla Model 3 Long Range AWD,"51,410€",2025,0kms,negro,Spain
+Tesla Model 3 Long Range AWD,"51,660€",2025,0kms,negro,Spain
+Tesla Model Y Long Range AWD,"52,550€",2024,"1,520kms",negro,Spain
+Tesla Model Y Long Range AWD,"53,060€",2025,0kms,negro,Spain
+Tesla Model Y Long Range AWD,"53,060€",2024,12kms,negro,Spain
+Tesla Model Y Long Range AWD,"53,090€",2024,10kms,negro,Spain
+Tesla Model 3 Performance,"54,660€",2024,"3,853kms",negro,Spain
+Tesla Model 3 Performance,"55,390€",2024,"1,726kms",negro,Spain
+Tesla Model Y Performance,"57,700€",2024,10kms,negro,Spain
+Tesla Model 3 Performance,"59,770€",2024,0kms,negro,Spain
+Tesla Model 3 Performance,"60,820€",2024,0kms,negro,Spain
+Tesla Model Y Performance,"61,500€",2024,395kms,negro,Spain
+Tesla Model Y Performance,"61,620€",2024,6kms,negro,Spain
+Tesla Model S,"80,600€",2023,"12,410kms",negro,Spain
+Tesla Model S,"83,500€",2023,"8,276kms",negro,Spain
+Tesla Model X,"84,000€",2023,"20,759kms",negro,Spain
+Tesla Model X,"84,500€",2023,"11,765kms",negro,Spain
+Tesla Model X,"84,500€",2023,"16,910kms",negro,Spain
+Tesla Model S,"90,770€",2024,551kms,negro,Spain
+Tesla Model X,"100,860€",2024,"3,945kms",negro,Spain
+Tesla Model S Plaid,"101,480€",2024,"3,652kms",negro,Spain
+Tesla Model S Plaid,"102,540€",2023,"1,700kms",negro,Spain
+Tesla Model X,"102,820€",2024,"4,378kms",negro,Spain
+Tesla Model X,"110,100€",2024,"3,063kms",negro,Spain
+Tesla Model X,"110,370€",2024,20kms,negro,Spain
+Tesla Model X,"112,770€",2024,0kms,negro,Spain
+Tesla Model X,"116,170€",2023,0kms,negro,Spain
+Tesla Model X,"119,670€",2023,0kms,negro,Spain
+Tesla Model 3 Long Range AWD,"35,900€",2021,"63,769kms",plata,Spain
+Tesla Model X Plaid,"86,500€",2023,"21,472kms",plata,Spain
+Tesla Model X,"118,070€",2023,0kms,plata,Spain
+Tesla Model 3 Long Range AWD,"33,200€",2021,"79,681kms",rojo,Spain
+Tesla Model 3 Long Range AWD,"34,100€",2021,"57,522kms",rojo,Spain
+Tesla Model 3 Performance,"35,300€",2021,"53,081kms",rojo,Spain
+Tesla Model 3 Long Range AWD,"35,900€",2021,"26,089kms",rojo,Spain
+Tesla Model 3 Long Range AWD,"37,100€",2022,"30,168kms",rojo,Spain
+Tesla Model 3 Performance,"50,100€",2023,"18,379kms",rojo,Spain
+Tesla Model 3,"38,470€",2025,0kms,rojo,Spain
+Tesla Model 3,"42,500€",2024,353kms,rojo,Spain
+Tesla Model 3 Long Range AWD,"47,650€",2024,"2,051kms",rojo,Spain
+Tesla Model 3 Long Range AWD,"50,760€",2024,0kms,rojo,Spain
+Tesla Model 3 Long Range AWD,"52,110€",2025,12kms,rojo,Spain
+Tesla Model 3 Long Range AWD,"52,110€",2024,0kms,rojo,Spain
+Tesla Model 3 Long Range AWD,"52,360€",2025,0kms,rojo,Spain
+Tesla Model 3 Long Range AWD,"52,360€",2024,10kms,rojo,Spain
+Tesla Model S,"86,500€",2023,"3,269kms",rojo,Spain
+Tesla Model X,"111,370€",2024,17kms,rojo,Spain
+Tesla Model X,"114,770€",2024,31kms,rojo,Spain
+Tesla Model X,"117,270€",2024,26kms,rojo,Spain
+Tesla Model X Plaid,"120,270€",2024,25kms,rojo,Spain
+Tesla Model X,"120,670€",2024,17kms,rojo,Spain
+Tesla Model X Plaid,"126,870€",2024,0kms,rojo,Spain
+Tesla Model 3,"38,470€",2024,"3,351kms",gris,Spain
+Tesla Model 3 Long Range AWD,"46,500€",2024,"15,795kms",gris,Spain
+Tesla Model 3 Long Range AWD,"50,060€",2025,0kms,gris,Spain
+Tesla Model 3 Long Range AWD,"51,410€",2024,13kms,gris,Spain
+Tesla Model 3 Long Range AWD,"51,660€",2025,0kms,gris,Spain
+Tesla Model 3 Performance,"54,930€",2024,"3,325kms",gris,Spain
+Tesla Model 3 Performance,"56,020€",2024,13kms,gris,Spain
+Tesla Model 3 Performance,"60,820€",2024,0kms,gris,Spain
+Tesla Model S,"91,500€",2024,879kms,gris,Spain
+Tesla Model S,"92,030€",2024,28kms,gris,Spain
+Tesla Model S,"102,580€",2024,0kms,gris,Spain
+Tesla Model X,"105,010€",2024,194kms,gris,Spain
+Tesla Model X,"113,770€",2024,28kms,gris,Spain
+Tesla Model X Plaid,"114,050€",2024,32kms,gris,Spain
+Tesla Model S Plaid,"117,100€",2024,20kms,gris,Spain
+Tesla Model Y Standard Range,"41,475€",2025,0kms,blanco,Portugal
+Tesla Model Y Standard Range,"41,475€",2024,4kms,blanco,Portugal
+Tesla Model Y Standard Range,"42,025€",2024,"5,432kms",blanco,Portugal
+Tesla Model 3,"42,175€",2025,10kms,blanco,Portugal
+Tesla Model 3,"42,175€",2024,0kms,blanco,Portugal
+Tesla Model Y Standard Range,"42,555€",2025,0kms,blanco,Portugal
+Tesla Model Y Standard Range,"42,605€",2024,"3,749kms",blanco,Portugal
+Tesla Model 3,"42,675€",2025,0kms,blanco,Portugal
+Tesla Model 3,"42,675€",2024,0kms,blanco,Portugal
+Tesla Model 3,"43,525€",2025,0kms,blanco,Portugal
+Tesla Model 3,"43,875€",2025,0kms,blanco,Portugal
+Tesla Model 3,"43,875€",2024,0kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"43,900€",2022,"35,338kms",blanco,Portugal
+Tesla Model Y Long Range AWD,"44,000€",2022,"54,383kms",blanco,Portugal
+Tesla Model 3,"44,025€",2024,9kms,blanco,Portugal
+Tesla Model 3 Long Range RWD,"45,975€",2025,0kms,blanco,Portugal
+Tesla Model Y Standard Range,"46,495€",2025,4kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"46,500€",2022,"31,967kms",blanco,Portugal
+Tesla Model Y Long Range AWD,"46,500€",2022,"32,157kms",blanco,Portugal
+Tesla Model Y Long Range AWD,"47,000€",2022,"28,496kms",blanco,Portugal
+Tesla Model Y Long Range AWD,"47,000€",2022,"28,755kms",blanco,Portugal
+Tesla Model 3 Long Range RWD,"48,335€",2025,87kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"48,895€",2023,"5,218kms",blanco,Portugal
+Tesla Model 3 Long Range AWD,"49,975€",2025,0kms,blanco,Portugal
+Tesla Model Y Long Range RWD,"49,975€",2025,4kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"49,975€",2024,0kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"50,375€",2025,0kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"50,875€",2024,"6,214kms",blanco,Portugal
+Tesla Model 3 Long Range RWD,"50,975€",2025,9kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"51,175€",2025,0kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"51,325€",2025,0kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"51,325€",2024,0kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"51,515€",2025,0kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"51,655€",2025,4kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"51,655€",2024,0kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"51,655€",2024,12kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"51,675€",2025,0kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"51,675€",2024,13kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"52,525€",2025,10kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"52,525€",2024,0kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"52,875€",2024,13kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"53,025€",2025,0kms,blanco,Portugal
+Tesla Model 3 Long Range AWD,"53,025€",2024,0kms,blanco,Portugal
+Tesla Model Y Long Range AWD,"55,455€",2025,4kms,blanco,Portugal
+Tesla Model 3 Performance,"58,475€",2025,10kms,blanco,Portugal
+Tesla Model 3 Performance,"58,475€",2024,13kms,blanco,Portugal
+Tesla Model Y Performance,"58,975€",2025,0kms,blanco,Portugal
+Tesla Model 3 Performance,"59,675€",2025,0kms,blanco,Portugal
+Tesla Model 3 Performance,"59,675€",2024,11kms,blanco,Portugal
+Tesla Model 3 Performance,"62,275€",2024,12kms,blanco,Portugal
+Tesla Model 3 Performance,"65,975€",2024,12kms,blanco,Portugal
+Tesla Model S,"95,225€",2024,"6,465kms",blanco,Portugal
+Tesla Model X Plaid,"97,375€",2023,"3,525kms",blanco,Portugal
+Tesla Model S,"99,005€",2023,776kms,blanco,Portugal
+Tesla Model X,"115,725€",2024,0kms,blanco,Portugal
+Tesla Model S Plaid,"115,925€",2024,17kms,blanco,Portugal
+Tesla Model X,"116,925€",2024,0kms,blanco,Portugal
+Tesla Model X Plaid,"123,925€",2024,0kms,blanco,Portugal
+Tesla Model 3,"38,475€",2025,0kms,azul,Portugal
+Tesla Model 3,"39,675€",2025,10kms,azul,Portugal
+Tesla Model 3,"39,675€",2024,0kms,azul,Portugal
+Tesla Model 3,"39,825€",2025,0kms,azul,Portugal
+Tesla Model 3,"39,825€",2024,0kms,azul,Portugal
+Tesla Model 3,"40,175€",2025,0kms,azul,Portugal
+Tesla Model Y Standard Range,"42,645€",2025,0kms,azul,Portugal
+Tesla Model Y Standard Range,"42,645€",2024,9kms,azul,Portugal
+Tesla Model Y Standard Range,"44,715€",2024,0kms,azul,Portugal
+Tesla Model Y Standard Range,"45,795€",2024,0kms,azul,Portugal
+Tesla Model Y Standard Range,"45,795€",2024,16kms,azul,Portugal
+Tesla Model 3 Long Range RWD,"47,015€",2025,10kms,azul,Portugal
+Tesla Model 3 Long Range AWD,"49,385€",2024,"7,172kms",azul,Portugal
+Tesla Model Y Long Range AWD,"49,995€",2023,"5,887kms",azul,Portugal
+Tesla Model 3 Long Range AWD,"51,275€",2025,0kms,azul,Portugal
+Tesla Model Y Long Range RWD,"52,625€",2025,0kms,azul,Portugal
+Tesla Model 3 Long Range AWD,"52,625€",2025,0kms,azul,Portugal
+Tesla Model 3 Long Range AWD,"52,625€",2024,0kms,azul,Portugal
+Tesla Model Y Long Range AWD,"52,635€",2024,"3,709kms",azul,Portugal
+Tesla Model 3 Long Range AWD,"52,975€",2025,10kms,azul,Portugal
+Tesla Model 3 Long Range AWD,"52,975€",2024,0kms,azul,Portugal
+Tesla Model Y Long Range AWD,"53,795€",2024,0kms,azul,Portugal
+Tesla Model Y Long Range AWD,"54,035€",2024,4kms,azul,Portugal
+Tesla Model 3 Long Range AWD,"54,325€",2024,10kms,azul,Portugal
+Tesla Model Y Long Range AWD,"55,005€",2024,"3,976kms",azul,Portugal
+Tesla Model Y Long Range AWD,"56,215€",2024,0kms,azul,Portugal
+Tesla Model 3 Performance,"59,775€",2025,0kms,azul,Portugal
+Tesla Model 3 Performance,"59,775€",2024,0kms,azul,Portugal
+Tesla Model 3 Performance,"60,975€",2025,10kms,azul,Portugal
+Tesla Model 3 Performance,"60,975€",2024,0kms,azul,Portugal
+Tesla Model Y Performance,"61,475€",2024,7kms,azul,Portugal
+Tesla Model Y Performance,"62,825€",2024,9kms,azul,Portugal
+Tesla Model Y Performance,"64,815€",2024,13kms,azul,Portugal
+Tesla Model X,"106,445€",2024,31kms,azul,Portugal
+Tesla Model X,"106,905€",2023,"14,588kms",azul,Portugal
+Tesla Model X,"115,075€",2024,20kms,azul,Portugal
+Tesla Model X,"115,825€",2023,116kms,azul,Portugal
+Tesla Model 3 Long Range AWD,"32,900€",2020,"81,783kms",negro,Portugal
+Tesla Model 3,"41,995€",2024,"5,229kms",negro,Portugal
+Tesla Model Y Standard Range,"42,645€",2025,0kms,negro,Portugal
+Tesla Model 3,"43,475€",2025,0kms,negro,Portugal
+Tesla Model Y Long Range AWD,"41,600€",2022,"31,021kms",negro,Portugal
+Tesla Model 3,"43,625€",2025,0kms,negro,Portugal
+Tesla Model Y Standard Range,"43,725€",2025,5kms,negro,Portugal
+Tesla Model 3,"43,975€",2025,0kms,negro,Portugal
+Tesla Model 3,"43,975€",2024,0kms,negro,Portugal
+Tesla Model Y Standard Range,"44,715€",2024,0kms,negro,Portugal
+Tesla Model Y Standard Range,"45,935€",2024,7kms,negro,Portugal
+Tesla Model 3 Long Range RWD,"47,275€",2025,0kms,negro,Portugal
+Tesla Model 3 Long Range RWD,"48,975€",2025,0kms,negro,Portugal
+Tesla Model 3 Long Range AWD,"50,235€",2024,"9,264kms",negro,Portugal
+Tesla Model 3 Long Range AWD,"51,275€",2025,0kms,negro,Portugal
+Tesla Model Y Long Range RWD,"51,405€",2024,"2,545kms",negro,Portugal
+Tesla Model Y Long Range AWD,"51,615€",2025,2kms,negro,Portugal
+Tesla Model 3 Long Range AWD,"52,475€",2025,10kms,negro,Portugal
+Tesla Model 3 Long Range AWD,"52,625€",2025,0kms,negro,Portugal
+Tesla Model 3 Long Range AWD,"52,625€",2024,0kms,negro,Portugal
+Tesla Model 3 Long Range AWD,"52,975€",2024,0kms,negro,Portugal
+Tesla Model Y Long Range RWD,"53,575€",2024,5kms,negro,Portugal
+Tesla Model Y Long Range AWD,"58,735€",2025,4kms,negro,Portugal
+Tesla Model 3 Performance,"59,775€",2024,0kms,negro,Portugal
+Tesla Model Y Performance,"60,275€",2025,5kms,negro,Portugal
+Tesla Model 3 Performance,"60,975€",2025,0kms,negro,Portugal
+Tesla Model 3 Performance,"60,975€",2024,13kms,negro,Portugal
+Tesla Model Y Performance,"61,475€",2025,4kms,negro,Portugal
+Tesla Model Y Performance,"67,775€",2025,4kms,negro,Portugal
+Tesla Model S,"103,525€",2023,0kms,negro,Portugal
+Tesla Model X,"108,075€",2023,34kms,negro,Portugal
+Tesla Model X,"112,575€",2024,20kms,negro,Portugal
+Tesla Model X,"115,075€",2024,0kms,negro,Portugal
+Tesla Model X,"122,025€",2023,25kms,negro,Portugal
+Tesla Model 3 Long Range AWD,"43,900€",2023,"14,886kms",plata,Portugal
+Tesla Model Y Long Range AWD,"45,500€",2022,"36,306kms",plata,Portugal
+Tesla Model 3 Performance,"46,600€",2022,"19,834kms",plata,Portugal
+Tesla Model X P100D,"58,000€",2019,"64,984kms",plata,Portugal
+Tesla Model X,"120,425€",2023,26kms,plata,Portugal
+Tesla Model 3,"42,975€",2025,0kms,rojo,Portugal
+Tesla Model 3,"42,975€",2024,0kms,rojo,Portugal
+Tesla Model 3,"44,175€",2025,0kms,rojo,Portugal
+Tesla Model 3,"44,175€",2024,9kms,rojo,Portugal
+Tesla Model 3,"44,325€",2025,0kms,rojo,Portugal
+Tesla Model 3,"44,675€",2025,10kms,rojo,Portugal
+Tesla Model 3,"44,675€",2024,12kms,rojo,Portugal
+Tesla Model 3 Long Range RWD,"50,875€",2025,9kms,rojo,Portugal
+Tesla Model 3 Long Range AWD,"51,975€",2024,0kms,rojo,Portugal
+Tesla Model 3 Long Range AWD,"53,175€",2024,0kms,rojo,Portugal
+Tesla Model 3 Long Range AWD,"53,325€",2025,0kms,rojo,Portugal
+Tesla Model 3 Long Range AWD,"53,325€",2024,0kms,rojo,Portugal
+Tesla Model 3 Long Range AWD,"53,675€",2025,0kms,rojo,Portugal
+Tesla Model 3 Long Range AWD,"53,675€",2024,0kms,rojo,Portugal
+Tesla Model 3 Long Range AWD,"55,775€",2024,12kms,rojo,Portugal
+Tesla Model 3 Performance,"60,475€",2024,0kms,rojo,Portugal
+Tesla Model 3 Performance,"61,675€",2024,0kms,rojo,Portugal
+Tesla Model S,"96,325€",2024,22kms,rojo,Portugal
+Tesla Model X,"113,575€",2024,17kms,rojo,Portugal
+Tesla Model S Plaid,"115,835€",2024,"3,197kms",rojo,Portugal
+Tesla Model X Plaid,"116,665€",2024,25kms,rojo,Portugal
+Tesla Model X,"117,075€",2024,31kms,rojo,Portugal
+Tesla Model X,"119,525€",2024,26kms,rojo,Portugal
+Tesla Model X,"123,025€",2024,17kms,rojo,Portugal
+Tesla Model X Plaid,"126,525€",2024,31kms,rojo,Portugal
+Tesla Model X Plaid,"129,025€",2024,0kms,rojo,Portugal
+Tesla Model 3,"43,475€",2025,0kms,gris,Portugal
+Tesla Model 3 Long Range RWD,"48,475€",2025,99kms,gris,Portugal
+Tesla Model 3 Long Range AWD,"51,275€",2024,0kms,gris,Portugal
+Tesla Model 3 Long Range AWD,"52,625€",2025,10kms,gris,Portugal
+Tesla Model 3 Long Range AWD,"52,625€",2024,0kms,gris,Portugal
+Tesla Model 3 Long Range AWD,"52,975€",2025,9kms,gris,Portugal
+Tesla Model 3 Performance,"59,775€",2024,10kms,gris,Portugal
+Tesla Model 3 Performance,"60,975€",2024,10kms,gris,Portugal
+Tesla Model X,"116,075€",2024,28kms,gris,Portugal
+Tesla Model 3 Long Range AWD,"26,800€",2019,"108,471kms",blanco,France
+Tesla Model 3 Long Range AWD,"28,400€",2021,"145,102kms",blanco,France
+Tesla Model 3 Long Range AWD,"28,500€",2020,"94,337kms",blanco,France
+Tesla Model 3 Long Range AWD,"29,700€",2020,"68,845kms",blanco,France
+Tesla Model 3 Long Range AWD,"30,800€",2020,"53,808kms",blanco,France
+Tesla Model 3 Long Range AWD,"30,800€",2020,"52,917kms",blanco,France
+Tesla Model 3 Performance,"31,200€",2019,"35,858kms",blanco,France
+Tesla Model 3 Long Range AWD,"31,300€",2020,"49,251kms",blanco,France
+Tesla Model 3 Performance,"31,600€",2020,"61,733kms",blanco,France
+Tesla Model 3 Long Range AWD,"31,500€",2021,"79,887kms",blanco,France
+Tesla Model 3 Performance,"32,200€",2020,"44,365kms",blanco,France
+Tesla Model 3 Long Range AWD,"32,200€",2020,"55,927kms",blanco,France
+Tesla Model 3 Performance,"32,200€",2019,"63,570kms",blanco,France
+Tesla Model 3 Long Range AWD,"33,300€",2020,"65,224kms",blanco,France
+Tesla Model 3 Long Range AWD,"33,700€",2021,"76,126kms",blanco,France
+Tesla Model 3 Performance,"35,500€",2020,"40,623kms",blanco,France
+Tesla Model 3,"39,990€",2025,10kms,blanco,France
+Tesla Model 3 Long Range AWD,"40,200€",2021,"31,909kms",blanco,France
+Tesla Model 3,"41,180€",2025,0kms,blanco,France
+Tesla Model 3,"41,180€",2025,0kms,blanco,France
+Tesla Model 3,"41,180€",2024,0kms,blanco,France
+Tesla Model 3,"41,180€",2024,0kms,blanco,France
+Tesla Model 3,"41,340€",2025,0kms,blanco,France
+Tesla Model 3,"42,370€",2025,0kms,blanco,France
+Tesla Model 3,"42,370€",2024,0kms,blanco,France
+Tesla Model 3,"42,530€",2025,0kms,blanco,France
+Tesla Model 3,"42,530€",2024,0kms,blanco,France
+Tesla Model Y Standard Range,"43,090€",2025,4kms,blanco,France
+Tesla Model S 100D,"44,000€",2019,"96,688kms",blanco,France
+Tesla Model Y Standard Range,"44,280€",2025,0kms,blanco,France
+Tesla Model Y Standard Range,"44,280€",2024,0kms,blanco,France
+Tesla Model 3 Long Range RWD,"44,900€",2023,"31,004kms",blanco,France
+Tesla Model 3,"45,140€",2025,13kms,blanco,France
+Tesla Model Y Standard Range,"45,630€",2024,3kms,blanco,France
+Tesla Model 3 Long Range RWD,"39,000€",2023,"24,197kms",blanco,France
+Tesla Model Y Long Range RWD,"46,990€",2025,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"47,240€",2024,"6,399kms",blanco,France
+Tesla Model 3 Long Range AWD,"47,510€",2024,"5,616kms",blanco,France
+Tesla Model Y Long Range AWD,"47,990€",2025,0kms,blanco,France
+Tesla Model Y Long Range RWD,"48,180€",2025,4kms,blanco,France
+Tesla Model 3 Long Range AWD,"48,640€",2024,15kms,blanco,France
+Tesla Model Y Long Range AWD,"49,180€",2025,0kms,blanco,France
+Tesla Model Y Long Range AWD,"49,180€",2024,0kms,blanco,France
+Tesla Model Y Long Range AWD,"49,180€",2024,6kms,blanco,France
+Tesla Model Y Long Range AWD,"49,230€",2024,5kms,blanco,France
+Tesla Model Y Long Range AWD,"49,340€",2025,0kms,blanco,France
+Tesla Model Y Long Range AWD,"49,340€",2024,4kms,blanco,France
+Tesla Model Y Performance,"49,600€",2022,"20,423kms",blanco,France
+Tesla Model 3 Long Range AWD,"49,990€",2025,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"49,990€",2024,0kms,blanco,France
+Tesla Model Y Long Range AWD,"50,090€",2025,0kms,blanco,France
+Tesla Model Y Long Range AWD,"50,530€",2025,0kms,blanco,France
+Tesla Model Y Long Range AWD,"50,530€",2024,4kms,blanco,France
+Tesla Model 3 Long Range AWD,"51,180€",2025,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"51,180€",2025,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"51,180€",2024,0kms,blanco,France
+Tesla Model Y Long Range AWD,"51,280€",2025,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"51,340€",2025,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"51,340€",2024,0kms,blanco,France
+Tesla Model Y Long Range AWD,"51,440€",2025,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"52,170€",2024,13kms,blanco,France
+Tesla Model 3 Long Range AWD,"52,370€",2024,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"52,530€",2025,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"52,530€",2025,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"52,530€",2024,0kms,blanco,France
+Tesla Model 3 Long Range AWD,"52,530€",2024,0kms,blanco,France
+Tesla Model Y Long Range AWD,"52,630€",2024,7kms,blanco,France
+Tesla Model 3 Long Range AWD,"53,790€",2024,0kms,blanco,France
+Tesla Model Y Performance,"53,990€",2025,0kms,blanco,France
+Tesla Model X Long Range Plus,"54,000€",2020,"53,949kms",blanco,France
+Tesla Model Y Performance,"55,180€",2024,0kms,blanco,France
+Tesla Model Y Performance,"55,340€",2024,0kms,blanco,France
+Tesla Model X Long Range,"55,500€",2020,"91,785kms",blanco,France
+Tesla Model 3 Performance,"56,920€",2024,12kms,blanco,France
+Tesla Model 3 Performance,"57,490€",2025,0kms,blanco,France
+Tesla Model 3 Performance,"57,490€",2024,0kms,blanco,France
+Tesla Model 3 Performance,"58,680€",2024,0kms,blanco,France
+Tesla Model Y Performance,"61,490€",2025,4kms,blanco,France
+Tesla Model S,"84,070€",2023,"3,414kms",blanco,France
+Tesla Model S,"90,450€",2024,710kms,blanco,France
+Tesla Model X,"99,990€",2024,23kms,blanco,France
+Tesla Model X,"112,490€",2024,0kms,blanco,France
+Tesla Model X,"113,690€",2024,0kms,blanco,France
+Tesla Model S Plaid,"115,290€",2024,25kms,blanco,France
+Tesla Model X,"117,090€",2023,0kms,blanco,France
+Tesla Model X Plaid,"120,890€",2024,0kms,blanco,France
+Tesla Model 3 Standard Range Plus,"26,900€",2020,"45,691kms",azul,France
+Tesla Model 3 Long Range AWD,"30,200€",2020,"56,115kms",azul,France
+Tesla Model 3 Long Range AWD,"31,600€",2021,"103,272kms",azul,France
+Tesla Model 3 Performance,"35,800€",2021,"90,951kms",azul,France
+Tesla Model 3 Long Range AWD,"37,000€",2020,"22,191kms",azul,France
+Tesla Model 3 Performance,"40,000€",2021,"43,763kms",azul,France
+Tesla Model 3,"40,080€",2024,13kms,azul,France
+Tesla Model 3,"40,700€",2024,757kms,azul,France
+Tesla Model 3,"41,170€",2024,21kms,azul,France
+Tesla Model 3,"41,290€",2025,0kms,azul,France
+Tesla Model 3,"41,290€",2024,0kms,azul,France
+Tesla Model 3,"41,290€",2024,0kms,azul,France
+Tesla Model 3,"41,460€",2024,15kms,azul,France
+Tesla Model 3,"41,460€",2024,15kms,azul,France
+Tesla Model 3,"41,460€",2024,29kms,azul,France
+Tesla Model 3,"41,460€",2024,"2,629kms",azul,France
+Tesla Model Y Standard Range,"42,290€",2024,12kms,azul,France
+Tesla Model 3,"42,480€",2025,0kms,azul,France
+Tesla Model 3,"42,480€",2025,0kms,azul,France
+Tesla Model 3,"42,480€",2024,0kms,azul,France
+Tesla Model 3,"42,480€",2024,0kms,azul,France
+Tesla Model 3,"42,640€",2025,0kms,azul,France
+Tesla Model 3,"42,640€",2024,0kms,azul,France
+Tesla Model Y Long Range AWD,"43,100€",2022,"71,294kms",azul,France
+Tesla Model X 100D,"44,200€",2019,"114,328kms",azul,France
+Tesla Model 3,"47,580€",2024,13kms,azul,France
+Tesla Model Y Long Range AWD,"49,290€",2025,0kms,azul,France
+Tesla Model 3,"49,980€",2024,10kms,azul,France
+Tesla Model 3 Long Range AWD,"50,190€",2024,"1,412kms",azul,France
+Tesla Model 3 Long Range AWD,"50,600€",2024,15kms,azul,France
+Tesla Model 3 Long Range AWD,"51,290€",2025,0kms,azul,France
+Tesla Model 3 Long Range AWD,"51,290€",2024,0kms,azul,France
+Tesla Model Y Long Range AWD,"51,390€",2025,2kms,azul,France
+Tesla Model 3 Long Range AWD,"52,480€",2025,10kms,azul,France
+Tesla Model 3 Long Range AWD,"52,480€",2024,0kms,azul,France
+Tesla Model 3 Long Range AWD,"52,480€",2024,0kms,azul,France
+Tesla Model 3 Long Range AWD,"52,640€",2025,0kms,azul,France
+Tesla Model 3 Long Range AWD,"52,640€",2024,0kms,azul,France
+Tesla Model S Long Range,"53,500€",2020,"96,181kms",azul,France
+Tesla Model 3 Long Range AWD,"53,830€",2024,0kms,azul,France
+Tesla Model Y Performance,"55,290€",2025,4kms,azul,France
+Tesla Model S Long Range,"55,550€",2020,"58,870kms",azul,France
+Tesla Model 3 Performance,"58,790€",2025,0kms,azul,France
+Tesla Model 3 Performance,"59,980€",2025,0kms,azul,France
+Tesla Model 3 Performance,"62,590€",2024,19kms,azul,France
+Tesla Model S,"89,450€",2024,"1,063kms",azul,France
+Tesla Model X,"111,790€",2024,20kms,azul,France
+Tesla Model X Plaid,"113,500€",2024,401kms,azul,France
+Tesla Model X,"118,690€",2023,60kms,azul,France
+Tesla Model X Plaid,"124,890€",2023,31kms,azul,France
+Tesla Model 3 Long Range AWD,"25,200€",2019,"141,692kms",negro,France
+Tesla Model 3 Performance,"33,200€",2020,"63,684kms",negro,France
+Tesla Model 3 Performance,"34,870€",2019,"51,506kms",negro,France
+Tesla Model 3 Performance,"36,300€",2020,"111,567kms",negro,France
+Tesla Model 3,"37,700€",2023,"28,589kms",negro,France
+Tesla Model 3 Long Range RWD,"38,400€",2023,"36,843kms",negro,France
+Tesla Model 3,"41,050€",2024,15kms,negro,France
+Tesla Model 3,"41,290€",2025,10kms,negro,France
+Tesla Model 3,"41,290€",2024,14kms,negro,France
+Tesla Model S 100D,"38,500€",2018,"84,325kms",negro,France
+Tesla Model 3,"41,760€",2024,166kms,negro,France
+Tesla Model S Long Range,"42,000€",2019,"102,621kms",negro,France
+Tesla Model 3,"42,160€",2024,12kms,negro,France
+Tesla Model 3,"42,480€",2025,0kms,negro,France
+Tesla Model 3,"42,480€",2024,0kms,negro,France
+Tesla Model 3,"42,640€",2025,0kms,negro,France
+Tesla Model 3,"42,640€",2024,0kms,negro,France
+Tesla Model 3,"42,640€",2024,10kms,negro,France
+Tesla Model Y Standard Range,"43,640€",2024,0kms,negro,France
+Tesla Model S Performance,"44,500€",2019,"99,838kms",negro,France
+Tesla Model 3 Long Range RWD,"46,290€",2025,0kms,negro,France
+Tesla Model 3,"47,430€",2024,11kms,negro,France
+Tesla Model Y Long Range AWD,"47,850€",2024,0kms,negro,France
+Tesla Model Y Long Range RWD,"48,290€",2025,5kms,negro,France
+Tesla Model Y Long Range AWD,"49,290€",2025,0kms,negro,France
+Tesla Model Y Long Range AWD,"49,290€",2024,0kms,negro,France
+Tesla Model Y Long Range AWD,"49,290€",2024,4kms,negro,France
+Tesla Model Y Long Range AWD,"49,290€",2024,145kms,negro,France
+Tesla Model Y Long Range AWD,"49,400€",2023,"11,184kms",negro,France
+Tesla Model Y Long Range AWD,"49,890€",2024,7kms,negro,France
+Tesla Model 3 Long Range RWD,"50,090€",2025,10kms,negro,France
+Tesla Model Y Long Range AWD,"50,480€",2025,0kms,negro,France
+Tesla Model Y Long Range AWD,"50,640€",2025,0kms,negro,France
+Tesla Model 3 Long Range AWD,"51,290€",2025,0kms,negro,France
+Tesla Model 3 Long Range AWD,"51,290€",2024,0kms,negro,France
+Tesla Model Y Long Range AWD,"51,390€",2025,0kms,negro,France
+Tesla Model Y Long Range RWD,"51,740€",2025,4kms,negro,France
+Tesla Model X P100D,"51,800€",2019,"95,034kms",negro,France
+Tesla Model Y Long Range AWD,"51,830€",2025,2kms,negro,France
+Tesla Model Y Performance,"52,100€",2022,"14,953kms",negro,France
+Tesla Model 3 Long Range AWD,"52,480€",2025,0kms,negro,France
+Tesla Model 3 Long Range AWD,"52,480€",2025,0kms,negro,France
+Tesla Model 3 Long Range AWD,"52,480€",2024,0kms,negro,France
+Tesla Model Y Long Range AWD,"52,580€",2025,0kms,negro,France
+Tesla Model Y Long Range AWD,"52,580€",2024,7kms,negro,France
+Tesla Model 3 Long Range AWD,"52,640€",2025,0kms,negro,France
+Tesla Model 3 Long Range AWD,"52,640€",2024,0kms,negro,France
+Tesla Model Y Long Range AWD,"52,980€",2025,0kms,negro,France
+Tesla Model Y Long Range AWD,"53,090€",2025,4kms,negro,France
+Tesla Model Y Long Range AWD,"54,280€",2025,5kms,negro,France
+Tesla Model X Long Range,"55,000€",2019,"59,026kms",negro,France
+Tesla Model Y Performance,"55,290€",2025,0kms,negro,France
+Tesla Model Y Performance,"55,290€",2024,4kms,negro,France
+Tesla Model Y Performance,"56,640€",2025,0kms,negro,France
+Tesla Model Y Performance,"56,640€",2024,0kms,negro,France
+Tesla Model 3 Long Range AWD,"58,790€",2025,9kms,negro,France
+Tesla Model 3 Long Range AWD,"58,790€",2025,10kms,negro,France
+Tesla Model 3 Performance,"58,790€",2024,0kms,negro,France
+Tesla Model 3 Performance,"59,980€",2025,0kms,negro,France
+Tesla Model 3 Performance,"59,980€",2024,0kms,negro,France
+Tesla Model 3 Performance,"62,590€",2024,10kms,negro,France
+Tesla Model S,"87,410€",2024,"5,165kms",negro,France
+Tesla Model S Plaid,"89,900€",2023,"27,477kms",negro,France
+Tesla Model S,"92,380€",2024,31kms,negro,France
+Tesla Model S,"94,300€",2024,797kms,negro,France
+Tesla Model S,"102,280€",2023,"1,011kms",negro,France
+Tesla Model X,"103,050€",2024,18kms,negro,France
+Tesla Model X,"108,190€",2024,49kms,negro,France
+Tesla Model X,"109,390€",2024,20kms,negro,France
+Tesla Model S Plaid,"110,380€",2024,541kms,negro,France
+Tesla Model X,"111,790€",2024,0kms,negro,France
+Tesla Model X,"115,290€",2024,20kms,negro,France
+Tesla Model X,"118,690€",2023,23kms,negro,France
+Tesla Model 3 Standard Range Plus,"29,000€",2020,"54,847kms",plata,France
+Tesla Model S 75D,"28,600€",2018,"127,132kms",plata,France
+Tesla Model 3 Long Range AWD,"29,900€",2019,"65,352kms",plata,France
+Tesla Model 3 Standard Range Plus,"30,100€",2021,"40,244kms",plata,France
+Tesla Model 3 Long Range AWD,"31,000€",2019,"45,587kms",plata,France
+Tesla Model 3 Performance,"31,700€",2020,"46,586kms",plata,France
+Tesla Model 3 Long Range AWD,"31,800€",2021,"106,571kms",plata,France
+Tesla Model 3 Performance,"33,700€",2021,"88,254kms",plata,France
+Tesla Model 3 Long Range AWD,"35,200€",2021,"45,659kms",plata,France
+Tesla Model 3 Performance,"39,200€",2020,"30,295kms",plata,France
+Tesla Model Y Long Range AWD,"38,100€",2022,"43,516kms",plata,France
+Tesla Model X 100D,"43,200€",2018,"91,833kms",plata,France
+Tesla Model X 100D,"39,500€",2018,"124,003kms",plata,France
+Tesla Model X 100D,"44,500€",2019,"115,609kms",plata,France
+Tesla Model S Long Range,"46,500€",2019,"56,744kms",plata,France
+Tesla Model S Performance,"47,000€",2019,"88,817kms",plata,France
+Tesla Model 3 Performance,"47,800€",2023,"12,996kms",plata,France
+Tesla Model X 100D,"48,500€",2019,"75,286kms",plata,France
+Tesla Model X Long Range,"49,000€",2019,"98,188kms",plata,France
+Tesla Model X 100D,"49,900€",2018,"52,351kms",plata,France
+Tesla Model X 100D,"51,400€",2019,"84,586kms",plata,France
+Tesla Model X Long Range,"53,800€",2019,"64,177kms",plata,France
+Tesla Model X 100D,"56,000€",2019,"55,363kms",plata,France
+Tesla Model X Long Range Plus,"57,000€",2020,"59,115kms",plata,France
+Tesla Model X,"94,000€",2023,"12,384kms",plata,France
+Tesla Model X,"109,290€",2023,86kms,plata,France
+Tesla Model X,"117,090€",2023,26kms,plata,France
+Tesla Model 3 Performance,"27,900€",2019,"72,649kms",rojo,France
+Tesla Model 3 Long Range AWD,"30,000€",2021,"136,792kms",rojo,France
+Tesla Model 3 Standard Range Plus,"30,200€",2021,"42,434kms",rojo,France
+Tesla Model 3 Long Range AWD,"32,400€",2021,"91,051kms",rojo,France
+Tesla Model 3,"35,700€",2023,"26,036kms",rojo,France
+Tesla Model 3 Long Range AWD,"35,900€",2021,"64,707kms",rojo,France
+Tesla Model 3 Performance,"36,000€",2020,"38,031kms",rojo,France
+Tesla Model 3 Performance,"35,900€",2021,"42,177kms",rojo,France
+Tesla Model Y Long Range AWD,"45,500€",2023,"10,713kms",rojo,France
+Tesla Model S Performance,"44,700€",2019,"90,274kms",rojo,France
+Tesla Model 3,"41,870€",2024,52kms,rojo,France
+Tesla Model 3,"41,900€",2024,10kms,rojo,France
+Tesla Model 3,"41,990€",2025,0kms,rojo,France
+Tesla Model 3,"41,990€",2024,0kms,rojo,France
+Tesla Model 3,"41,990€",2024,0kms,rojo,France
+Tesla Model 3,"42,020€",2024,15kms,rojo,France
+Tesla Model 3,"43,020€",2024,23kms,rojo,France
+Tesla Model 3,"43,140€",2024,12kms,rojo,France
+Tesla Model 3,"43,180€",2025,0kms,rojo,France
+Tesla Model 3,"43,180€",2025,0kms,rojo,France
+Tesla Model 3,"43,180€",2024,0kms,rojo,France
+Tesla Model 3,"43,290€",2024,12kms,rojo,France
+Tesla Model 3,"43,340€",2025,0kms,rojo,France
+Tesla Model 3,"43,340€",2024,0kms,rojo,France
+Tesla Model 3 Long Range AWD,"50,430€",2024,13kms,rojo,France
+Tesla Model 3 Long Range AWD,"51,560€",2024,70kms,rojo,France
+Tesla Model 3 Long Range AWD,"51,580€",2024,10kms,rojo,France
+Tesla Model 3 Long Range AWD,"51,600€",2024,0kms,rojo,France
+Tesla Model 3 Long Range AWD,"51,990€",2024,0kms,rojo,France
+Tesla Model 3 Long Range AWD,"52,600€",2024,15kms,rojo,France
+Tesla Model 3 Long Range AWD,"53,020€",2024,10kms,rojo,France
+Tesla Model 3 Long Range AWD,"53,180€",2025,0kms,rojo,France
+Tesla Model 3 Long Range AWD,"53,180€",2024,0kms,rojo,France
+Tesla Model 3 Long Range AWD,"53,180€",2024,0kms,rojo,France
+Tesla Model 3 Long Range AWD,"53,340€",2025,0kms,rojo,France
+Tesla Model 3 Long Range AWD,"53,340€",2024,0kms,rojo,France
+Tesla Model 3 Long Range AWD,"53,900€",2024,15kms,rojo,France
+Tesla Model 3 Performance,"55,190€",2024,"2,192kms",rojo,France
+Tesla Model 3 Long Range AWD,"55,720€",2024,12kms,rojo,France
+Tesla Model 3 Performance,"59,340€",2024,12kms,rojo,France
+Tesla Model 3 Performance,"59,490€",2025,11kms,rojo,France
+Tesla Model 3 Performance,"59,490€",2024,24kms,rojo,France
+Tesla Model 3 Performance,"60,680€",2024,17kms,rojo,France
+Tesla Model 3 Performance,"64,480€",2024,11kms,rojo,France
+Tesla Model S Plaid,"101,360€",2024,"5,313kms",rojo,France
+Tesla Model S Plaid,"102,710€",2024,21kms,rojo,France
+Tesla Model X,"109,200€",2024,26kms,rojo,France
+Tesla Model X,"110,390€",2024,17kms,rojo,France
+Tesla Model X Plaid,"113,530€",2024,197kms,rojo,France
+Tesla Model X,"113,790€",2024,31kms,rojo,France
+Tesla Model X,"116,290€",2024,26kms,rojo,France
+Tesla Model X,"119,690€",2024,17kms,rojo,France
+Tesla Model X Plaid,"125,890€",2024,0kms,rojo,France
+Tesla Model 3,"41,290€",2025,10kms,gris,France
+Tesla Model 3,"41,570€",2024,"2,309kms",gris,France
+Tesla Model 3,"42,480€",2025,0kms,gris,France
+Tesla Model 3,"42,640€",2025,0kms,gris,France
+Tesla Model 3,"42,640€",2024,10kms,gris,France
+Tesla Model 3 Long Range RWD,"46,410€",2025,536kms,gris,France
+Tesla Model 3 Long Range RWD,"46,620€",2025,326kms,gris,France
+Tesla Model 3 Long Range AWD,"51,290€",2025,0kms,gris,France
+Tesla Model 3 Long Range AWD,"51,290€",2024,0kms,gris,France
+Tesla Model 3 Long Range AWD,"51,290€",2024,10kms,gris,France
+Tesla Model 3 Long Range AWD,"52,480€",2025,0kms,gris,France
+Tesla Model 3 Long Range AWD,"52,640€",2025,0kms,gris,France
+Tesla Model 3 Long Range AWD,"52,640€",2024,0kms,gris,France
+Tesla Model 3 Long Range AWD,"56,440€",2024,10kms,gris,France
+Tesla Model 3 Performance,"59,980€",2024,0kms,gris,France
+Tesla Model X,"112,790€",2024,28kms,gris,France
+Tesla Model S Plaid,"115,490€",2024,18kms,gris,France
+Tesla Model S Plaid,"116,120€",2024,26kms,gris,France
+Tesla Model X Plaid,"117,590€",2024,20kms,gris,France
