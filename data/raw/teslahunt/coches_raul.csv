@@ -1,683 +1,529 @@
-modelo,precio,matriculacion,kilometraje,color,pais
-Tesla Model 3,35100,2023,39315,blanco,Spain
-Tesla Model 3,36470,2025,0,blanco,Spain
-Tesla Model 3,36700,2024,1817,blanco,Spain
-Tesla Model 3,37000,2024,21,blanco,Spain
-Tesla Model 3,37300,2024,676,blanco,Spain
-Tesla Model 3,37300,2024,692,blanco,Spain
-Tesla Model 3,37500,2024,14,blanco,Spain
-Tesla Model 3,37520,2025,0,blanco,Spain
-Tesla Model 3,37520,2024,0,blanco,Spain
-Tesla Model 3,38070,2025,0,blanco,Spain
-Tesla Model 3,38070,2024,12,blanco,Spain
-Tesla Model 3,38870,2025,0,blanco,Spain
-Tesla Model 3,39120,2024,0,blanco,Spain
-Tesla Model 3,39420,2025,12,blanco,Spain
-Tesla Model 3,39420,2024,0,blanco,Spain
-Tesla Model 3 Long Range RWD,41470,2025,0,blanco,Spain
+﻿modelo,precio,matriculacion,kilometraje,color,pais
+Tesla Model 3,33500,2023,39315,blanco,Spain
+Tesla Model 3,36000,2024,1817,blanco,Spain
+Tesla Model 3,37000,2024,676,blanco,Spain
+Tesla Model 3,37000,2024,728,blanco,Spain
+Tesla Model 3 Long Range RWD,41470,2025,10,blanco,Spain
+Tesla Model Y Long Range RWD,42150,2024,18609,blanco,Spain
+Tesla Model 3 Performance,42300,2023,29444,blanco,Spain
+Tesla Model 3 Long Range AWD,42640,2024,2204,blanco,Spain
+Tesla Model 3 Long Range AWD,43560,2024,4790,blanco,Spain
 Tesla Model Y Standard Range,44260,2025,0,blanco,Spain
-Tesla Model Y Standard Range,44490,2024,6282,blanco,Spain
-Tesla Model Y Long Range RWD,45560,2024,7986,blanco,Spain
-Tesla Model Y Long Range RWD,45560,2024,7996,blanco,Spain
-Tesla Model Y Standard Range,45750,2024,1317,blanco,Spain
-Tesla Model 3 Long Range AWD,45980,2024,2204,blanco,Spain
-Tesla Model Y Long Range RWD,46930,2024,1991,blanco,Spain
-Tesla Model 3 Long Range AWD,46940,2024,4790,blanco,Spain
-Tesla Model Y Long Range RWD,47580,2024,4462,blanco,Spain
-Tesla Model 3 Performance,47700,2023,29444,blanco,Spain
-Tesla Model Y Long Range AWD,48110,2023,7085,blanco,Spain
-Tesla Model Y Long Range RWD,48210,2024,2376,blanco,Spain
-Tesla Model 3 Long Range AWD,48340,2024,223,blanco,Spain
-Tesla Model 3 Long Range AWD,48760,2025,0,blanco,Spain
+Tesla Model Y Standard Range,44390,2024,6314,blanco,Spain
+Tesla Model Y Standard Range,45310,2024,8,blanco,Spain
+Tesla Model Y Long Range RWD,45370,2024,8686,blanco,Spain
+Tesla Model Y Long Range RWD,45420,2024,8298,blanco,Spain
+Tesla Model 3 Long Range AWD,45470,2025,9,blanco,Spain
+Tesla Model Y Standard Range,45660,2024,1317,blanco,Spain
+Tesla Model Y Standard Range,46360,2025,0,blanco,Spain
+Tesla Model 3 Long Range AWD,46640,2024,440,blanco,Spain
+Tesla Model Y Long Range RWD,46760,2025,0,blanco,Spain
+Tesla Model Y Long Range RWD,46840,2024,1991,blanco,Spain
+Tesla Model Y Long Range RWD,47490,2024,4462,blanco,Spain
+Tesla Model Y Long Range AWD,48060,2023,7086,blanco,Spain
+Tesla Model Y Long Range RWD,48070,2024,2516,blanco,Spain
 Tesla Model Y Long Range AWD,49040,2023,2036,blanco,Spain
-Tesla Model Y Long Range RWD,49160,2025,2,blanco,Spain
-Tesla Model Y Long Range RWD,49790,2024,211,blanco,Spain
-Tesla Model 3 Long Range AWD,49810,2025,0,blanco,Spain
-Tesla Model Y Long Range RWD,49830,2024,26,blanco,Spain
+Tesla Model 3 Long Range AWD,49070,2024,21,blanco,Spain
+Tesla Model Y Long Range RWD,49460,2024,907,blanco,Spain
+Tesla Model Y Long Range RWD,49740,2024,55,blanco,Spain
 Tesla Model Y Long Range AWD,49840,2024,400,blanco,Spain
-Tesla Model 3 Long Range AWD,49930,2024,440,blanco,Spain
-Tesla Model 3 Long Range AWD,50110,2024,0,blanco,Spain
-Tesla Model Y Long Range AWD,50560,2024,3179,blanco,Spain
-Tesla Model 3 Long Range AWD,51160,2025,0,blanco,Spain
-Tesla Model 3 Long Range AWD,51410,2025,0,blanco,Spain
-Tesla Model 3 Long Range AWD,51710,2024,0,blanco,Spain
-Tesla Model Y Long Range AWD,51760,2025,0,blanco,Spain
 Tesla Model Y Long Range AWD,51760,2024,0,blanco,Spain
 Tesla Model Y Long Range AWD,51760,2023,0,blanco,Spain
-Tesla Model 3 Performance,52300,2024,3543,blanco,Spain
-Tesla Model 3 Long Range AWD,52460,2024,20,blanco,Spain
-Tesla Model Y Long Range AWD,52810,2025,0,blanco,Spain
 Tesla Model Y Long Range AWD,53050,2024,26,blanco,Spain
 Tesla Model Y Long Range AWD,54910,2024,565,blanco,Spain
-Tesla Model Y Long Range AWD,55070,2025,7,blanco,Spain
-Tesla Model Y Long Range AWD,55070,2024,10,blanco,Spain
-Tesla Model Y Long Range AWD,55070,2023,28,blanco,Spain
-Tesla Model Y Performance,55220,2024,2276,blanco,Spain
-Tesla Model Y Long Range AWD,55460,2024,9,blanco,Spain
-Tesla Model Y Performance,55710,2024,0,blanco,Spain
-Tesla Model Y Long Range AWD,56420,2025,0,blanco,Spain
-Tesla Model 3 Performance,58470,2024,0,blanco,Spain
-Tesla Model Y Performance,58500,2024,7,blanco,Spain
+Tesla Model Y Performance,55140,2024,2291,blanco,Spain
+Tesla Model Y Long Range AWD,55350,2024,9,blanco,Spain
+Tesla Model Y Performance,55640,2024,0,blanco,Spain
+Tesla Model Y Long Range AWD,56420,2025,10,blanco,Spain
+Tesla Model Y Performance,58350,2024,7,blanco,Spain
 Tesla Model Y Performance,58970,2025,0,blanco,Spain
-Tesla Model S,79500,2023,13178,blanco,Spain
-Tesla Model S Plaid,81700,2023,36085,blanco,Spain
-Tesla Model S,82010,2023,2497,blanco,Spain
-Tesla Model X Plaid,83500,2023,15035,blanco,Spain
-Tesla Model S,84400,2023,6300,blanco,Spain
-Tesla Model S Plaid,87400,2023,15040,blanco,Spain
-Tesla Model X Plaid,87600,2023,20073,blanco,Spain
-Tesla Model X,96120,2024,3632,blanco,Spain
+Tesla Model S,77200,2023,13178,blanco,Spain
+Tesla Model S,81800,2023,6300,blanco,Spain
+Tesla Model X Plaid,84000,2023,20073,blanco,Spain
+Tesla Model X Plaid,84600,2023,15035,blanco,Spain
+Tesla Model S Plaid,85700,2023,15040,blanco,Spain
+Tesla Model X,95860,2024,3649,blanco,Spain
 Tesla Model S,99600,2023,503,blanco,Spain
-Tesla Model X,100580,2024,5519,blanco,Spain
-Tesla Model X,101230,2024,953,blanco,Spain
+Tesla Model X,100160,2024,5936,blanco,Spain
+Tesla Model X,100940,2024,979,blanco,Spain
 Tesla Model S,102270,2023,0,blanco,Spain
 Tesla Model S,102270,2023,98,blanco,Spain
-Tesla Model X,102840,2023,1405,blanco,Spain
+Tesla Model X,102640,2023,1405,blanco,Spain
 Tesla Model X,104370,2023,31,blanco,Spain
-Tesla Model X Plaid,106270,2024,33,blanco,Spain
-Tesla Model X,107210,2023,3253,blanco,Spain
+Tesla Model X Plaid,106050,2024,34,blanco,Spain
+Tesla Model X,106910,2023,3295,blanco,Spain
 Tesla Model X,110270,2023,0,blanco,Spain
-Tesla Model X Plaid,111670,2024,59,blanco,Spain
-Tesla Model X,113570,2024,0,blanco,Spain
-Tesla Model X,114670,2024,0,blanco,Spain
+Tesla Model X Plaid,111440,2024,60,blanco,Spain
 Tesla Model X,115670,2023,0,blanco,Spain
 Tesla Model X,118070,2023,0,blanco,Spain
 Tesla Model X,118070,2023,92,blanco,Spain
-Tesla Model X Plaid,121870,2024,0,blanco,Spain
-Tesla Model 3,36270,2024,6562,azul,Spain
-Tesla Model 3,36470,2024,5580,azul,Spain
+Tesla Model 3,36190,2024,6578,azul,Spain
 Tesla Model 3,37770,2025,0,azul,Spain
-Tesla Model 3 Long Range AWD,37900,2022,20049,azul,Spain
 Tesla Model 3,39120,2024,0,azul,Spain
-Tesla Model 3,39370,2024,12,azul,Spain
-Tesla Model Y Standard Range,44590,2024,6998,azul,Spain
+Tesla Model 3 Long Range AWD,39500,2022,37484,azul,Spain
 Tesla Model Y Standard Range,45560,2025,0,azul,Spain
-Tesla Model Y Standard Range,45990,2024,5128,azul,Spain
+Tesla Model 3 Long Range AWD,45770,2024,25,azul,Spain
+Tesla Model Y Standard Range,45890,2024,5128,azul,Spain
+Tesla Model 3 Long Range AWD,46530,2024,15,azul,Spain
+Tesla Model 3 Long Range AWD,46600,2024,3380,azul,Spain
+Tesla Model 3 Long Range AWD,46770,2024,10,azul,Spain
 Tesla Model Y Standard Range,47660,2025,4,azul,Spain
-Tesla Model 3 Long Range AWD,49060,2024,25,azul,Spain
+Tesla Model X 100D,47900,2018,108044,azul,Spain
+Tesla Model Y Long Range RWD,48060,2025,4,azul,Spain
 Tesla Model Y Long Range RWD,49410,2025,0,azul,Spain
-Tesla Model 3 Long Range AWD,49990,2024,3362,azul,Spain
-Tesla Model 3 Long Range AWD,50060,2025,0,azul,Spain
-Tesla Model 3 Long Range AWD,50060,2024,0,azul,Spain
-Tesla Model Y Long Range AWD,51020,2024,2501,azul,Spain
-Tesla Model 3 Long Range AWD,51110,2025,0,azul,Spain
-Tesla Model 3 Long Range AWD,51110,2024,15,azul,Spain
-Tesla Model 3 Long Range AWD,51410,2025,0,azul,Spain
-Tesla Model 3 Long Range AWD,51410,2024,0,azul,Spain
+Tesla Model Y Long Range AWD,50950,2024,2501,azul,Spain
 Tesla Model Y Long Range AWD,51420,2024,2857,azul,Spain
-Tesla Model 3 Long Range AWD,51660,2024,0,azul,Spain
-Tesla Model X 100D,52000,2018,108044,azul,Spain
-Tesla Model Y Performance,56810,2024,612,azul,Spain
+Tesla Model Y Performance,56740,2024,612,azul,Spain
 Tesla Model Y Performance,58970,2024,9,azul,Spain
-Tesla Model 3 Performance,59770,2025,0,azul,Spain
-Tesla Model S,88990,2023,6196,azul,Spain
-Tesla Model S,90610,2024,792,azul,Spain
-Tesla Model X,91210,2023,1703,azul,Spain
-Tesla Model X,112770,2024,20,azul,Spain
-Tesla Model S Plaid,115680,2024,21,azul,Spain
-Tesla Model 3 Long Range AWD,31400,2019,60048,negro,Spain
+Tesla Model 3 Performance,59770,2025,10,azul,Spain
+Tesla Model Y Performance,60270,2024,7,azul,Spain
+Tesla Model S,88890,2023,6196,azul,Spain
+Tesla Model S,90270,2024,942,azul,Spain
+Tesla Model S Plaid,115240,2024,21,azul,Spain
+Tesla Model 3 Long Range AWD,28900,2019,60048,negro,Spain
 Tesla Model 3,31600,2022,15290,negro,Spain
-Tesla Model S 75D,33500,2018,70614,negro,Spain
-Tesla Model S 75D,34200,2018,68302,negro,Spain
-Tesla Model 3 Long Range AWD,34900,2021,76956,negro,Spain
-Tesla Model 3 Long Range AWD,36300,2021,42189,negro,Spain
-Tesla Model 3,37310,2024,5656,negro,Spain
-Tesla Model 3 Performance,39600,2020,40205,negro,Spain
-Tesla Model Y Standard Range,42750,2024,5950,negro,Spain
+Tesla Model 3 Long Range AWD,32400,2020,73607,negro,Spain
+Tesla Model 3 Long Range AWD,33000,2021,76956,negro,Spain
+Tesla Model S 75D,33200,2018,70614,negro,Spain
+Tesla Model S 75D,33900,2018,68302,negro,Spain
+Tesla Model 3 Long Range AWD,34000,2021,42189,negro,Spain
+Tesla Model 3,38770,2024,73,negro,Spain
+Tesla Model Y Standard Range,42140,2024,8864,negro,Spain
+Tesla Model Y Standard Range,42670,2024,5950,negro,Spain
 Tesla Model 3 Long Range RWD,42770,2025,0,negro,Spain
-Tesla Model Y Standard Range,43440,2024,2798,negro,Spain
-Tesla Model 3 Long Range RWD,43820,2025,0,negro,Spain
+Tesla Model 3 Long Range AWD,43750,2024,15,negro,Spain
+Tesla Model Y Performance,43800,2023,48582,negro,Spain
 Tesla Model 3 Long Range RWD,44370,2025,9,negro,Spain
-Tesla Model Y Standard Range,44970,2024,5091,negro,Spain
+Tesla Model Y Standard Range,44770,2024,5624,negro,Spain
+Tesla Model 3 Long Range AWD,45070,2024,13,negro,Spain
+Tesla Model 3 Long Range AWD,45220,2024,223,negro,Spain
 Tesla Model Y Standard Range,45560,2024,0,negro,Spain
-Tesla Model Y Performance,46800,2023,48582,negro,Spain
-Tesla Model 3 Long Range AWD,48360,2024,13,negro,Spain
-Tesla Model 3 Long Range AWD,48570,2024,223,negro,Spain
-Tesla Model 3 Long Range AWD,50060,2025,0,negro,Spain
-Tesla Model 3 Long Range AWD,50060,2024,0,negro,Spain
-Tesla Model Y Long Range RWD,50160,2024,9,negro,Spain
-Tesla Model 3 Long Range AWD,51110,2024,0,negro,Spain
-Tesla Model 3 Long Range AWD,51410,2025,0,negro,Spain
-Tesla Model 3 Long Range AWD,51660,2025,0,negro,Spain
-Tesla Model Y Long Range AWD,52550,2024,1520,negro,Spain
-Tesla Model Y Long Range AWD,53060,2025,0,negro,Spain
-Tesla Model Y Long Range AWD,53060,2024,12,negro,Spain
-Tesla Model Y Long Range AWD,53090,2024,10,negro,Spain
+Tesla Model Y Long Range RWD,47140,2024,9,negro,Spain
+Tesla Model Y Long Range RWD,48060,2025,0,negro,Spain
+Tesla Model Y Long Range RWD,49110,2025,2,negro,Spain
+Tesla Model Y Long Range AWD,52480,2024,1520,negro,Spain
+Tesla Model Y Long Range AWD,52990,2024,12,negro,Spain
+Tesla Model Y Long Range AWD,53060,2025,2,negro,Spain
 Tesla Model 3 Performance,54660,2024,3853,negro,Spain
 Tesla Model 3 Performance,55390,2024,1726,negro,Spain
-Tesla Model Y Performance,57700,2024,10,negro,Spain
 Tesla Model 3 Performance,59770,2024,0,negro,Spain
 Tesla Model 3 Performance,60820,2024,0,negro,Spain
 Tesla Model Y Performance,61500,2024,395,negro,Spain
 Tesla Model Y Performance,61620,2024,6,negro,Spain
-Tesla Model S,80600,2023,12410,negro,Spain
-Tesla Model S,83500,2023,8276,negro,Spain
-Tesla Model X,84000,2023,20759,negro,Spain
-Tesla Model X,84500,2023,11765,negro,Spain
-Tesla Model X,84500,2023,16910,negro,Spain
-Tesla Model S,90770,2024,551,negro,Spain
-Tesla Model X,100860,2024,3945,negro,Spain
-Tesla Model S Plaid,101480,2024,3652,negro,Spain
-Tesla Model S Plaid,102540,2023,1700,negro,Spain
-Tesla Model X,102820,2024,4378,negro,Spain
-Tesla Model X,110100,2024,3063,negro,Spain
-Tesla Model X,110370,2024,20,negro,Spain
-Tesla Model X,112770,2024,0,negro,Spain
+Tesla Model S,78800,2023,12410,negro,Spain
+Tesla Model S,79900,2023,8276,negro,Spain
+Tesla Model X,82500,2023,11765,negro,Spain
+Tesla Model S,90520,2024,577,negro,Spain
+Tesla Model X,100570,2024,4022,negro,Spain
+Tesla Model S Plaid,101270,2024,3652,negro,Spain
+Tesla Model X,102220,2024,5310,negro,Spain
+Tesla Model S Plaid,102320,2023,1700,negro,Spain
+Tesla Model X,109710,2024,3206,negro,Spain
 Tesla Model X,116170,2023,0,negro,Spain
 Tesla Model X,119670,2023,0,negro,Spain
-Tesla Model 3 Long Range AWD,35900,2021,63769,plata,Spain
-Tesla Model X Plaid,86500,2023,21472,plata,Spain
+Tesla Model 3,30800,2022,37725,plata,Spain
+Tesla Model 3 Long Range AWD,33000,2021,63769,plata,Spain
+Tesla Model X Plaid,85500,2023,21472,plata,Spain
 Tesla Model X,118070,2023,0,plata,Spain
-Tesla Model 3 Long Range AWD,33200,2021,79681,rojo,Spain
+Tesla Model 3 Long Range AWD,32500,2021,79681,rojo,Spain
 Tesla Model 3 Long Range AWD,34100,2021,57522,rojo,Spain
-Tesla Model 3 Performance,35300,2021,53081,rojo,Spain
-Tesla Model 3 Long Range AWD,35900,2021,26089,rojo,Spain
+Tesla Model 3 Long Range AWD,34900,2021,26089,rojo,Spain
 Tesla Model 3 Long Range AWD,37100,2022,30168,rojo,Spain
-Tesla Model 3 Performance,50100,2023,18379,rojo,Spain
+Tesla Model 3 Performance,43200,2023,18379,rojo,Spain
 Tesla Model 3,38470,2025,0,rojo,Spain
-Tesla Model 3,42500,2024,353,rojo,Spain
-Tesla Model 3 Long Range AWD,47650,2024,2051,rojo,Spain
-Tesla Model 3 Long Range AWD,50760,2024,0,rojo,Spain
-Tesla Model 3 Long Range AWD,52110,2025,12,rojo,Spain
-Tesla Model 3 Long Range AWD,52110,2024,0,rojo,Spain
-Tesla Model 3 Long Range AWD,52360,2025,0,rojo,Spain
-Tesla Model 3 Long Range AWD,52360,2024,10,rojo,Spain
-Tesla Model S,86500,2023,3269,rojo,Spain
-Tesla Model X,111370,2024,17,rojo,Spain
-Tesla Model X,114770,2024,31,rojo,Spain
-Tesla Model X,117270,2024,26,rojo,Spain
-Tesla Model X Plaid,120270,2024,25,rojo,Spain
-Tesla Model X,120670,2024,17,rojo,Spain
-Tesla Model X Plaid,126870,2024,0,rojo,Spain
-Tesla Model 3,38470,2024,3351,gris,Spain
-Tesla Model 3 Long Range AWD,46500,2024,15795,gris,Spain
-Tesla Model 3 Long Range AWD,50060,2025,0,gris,Spain
-Tesla Model 3 Long Range AWD,51410,2024,13,gris,Spain
-Tesla Model 3 Long Range AWD,51660,2025,0,gris,Spain
-Tesla Model 3 Performance,54930,2024,3325,gris,Spain
+Tesla Model 3,38520,2024,15,rojo,Spain
+Tesla Model 3 Long Range AWD,44360,2024,2051,rojo,Spain
+Tesla Model S,83600,2023,3269,rojo,Spain
+Tesla Model X Plaid,119820,2024,25,rojo,Spain
+Tesla Model 3,38300,2024,3818,gris,Spain
+Tesla Model 3 Long Range AWD,45000,2024,15795,gris,Spain
+Tesla Model 3 Long Range AWD,46770,2025,10,gris,Spain
+Tesla Model 3 Long Range AWD,48120,2024,13,gris,Spain
+Tesla Model 3 Long Range AWD,48370,2025,15,gris,Spain
+Tesla Model 3 Long Range AWD,49420,2024,33,gris,Spain
+Tesla Model 3 Performance,54860,2024,3325,gris,Spain
 Tesla Model 3 Performance,56020,2024,13,gris,Spain
 Tesla Model 3 Performance,60820,2024,0,gris,Spain
-Tesla Model S,91500,2024,879,gris,Spain
-Tesla Model S,92030,2024,28,gris,Spain
-Tesla Model S,102580,2024,0,gris,Spain
-Tesla Model X,105010,2024,194,gris,Spain
-Tesla Model X,113770,2024,28,gris,Spain
-Tesla Model X Plaid,114050,2024,32,gris,Spain
-Tesla Model S Plaid,117100,2024,20,gris,Spain
+Tesla Model S,91080,2024,1151,gris,Spain
+Tesla Model S,91790,2024,28,gris,Spain
+Tesla Model S,102330,2024,0,gris,Spain
+Tesla Model X,104730,2024,208,gris,Spain
+Tesla Model X Plaid,113820,2024,33,gris,Spain
+Tesla Model S Plaid,116660,2024,20,gris,Spain
+Tesla Model 3 Long Range AWD,35900,2021,40421,blanco,Portugal
 Tesla Model Y Standard Range,41475,2025,0,blanco,Portugal
-Tesla Model Y Standard Range,41475,2024,4,blanco,Portugal
-Tesla Model Y Standard Range,42025,2024,5432,blanco,Portugal
-Tesla Model 3,42175,2025,10,blanco,Portugal
-Tesla Model 3,42175,2024,0,blanco,Portugal
-Tesla Model Y Standard Range,42555,2025,0,blanco,Portugal
+Tesla Model Y Standard Range,42555,2025,5,blanco,Portugal
+Tesla Model Y Long Range AWD,42600,2022,35338,blanco,Portugal
 Tesla Model Y Standard Range,42605,2024,3749,blanco,Portugal
-Tesla Model 3,42675,2025,0,blanco,Portugal
-Tesla Model 3,42675,2024,0,blanco,Portugal
-Tesla Model 3,43525,2025,0,blanco,Portugal
-Tesla Model 3,43875,2025,0,blanco,Portugal
-Tesla Model 3,43875,2024,0,blanco,Portugal
-Tesla Model Y Long Range AWD,43900,2022,35338,blanco,Portugal
-Tesla Model Y Long Range AWD,44000,2022,54383,blanco,Portugal
-Tesla Model 3,44025,2024,9,blanco,Portugal
-Tesla Model 3 Long Range RWD,45975,2025,0,blanco,Portugal
+Tesla Model Y Long Range AWD,42700,2022,54383,blanco,Portugal
+Tesla Model Y Long Range AWD,43800,2022,31967,blanco,Portugal
+Tesla Model Y Long Range AWD,43800,2022,32157,blanco,Portugal
+Tesla Model Y Long Range AWD,45600,2022,28496,blanco,Portugal
+Tesla Model Y Long Range AWD,45600,2022,28755,blanco,Portugal
+Tesla Model 3 Long Range RWD,45975,2025,10,blanco,Portugal
 Tesla Model Y Standard Range,46495,2025,4,blanco,Portugal
-Tesla Model Y Long Range AWD,46500,2022,31967,blanco,Portugal
-Tesla Model Y Long Range AWD,46500,2022,32157,blanco,Portugal
-Tesla Model Y Long Range AWD,47000,2022,28496,blanco,Portugal
-Tesla Model Y Long Range AWD,47000,2022,28755,blanco,Portugal
-Tesla Model 3 Long Range RWD,48335,2025,87,blanco,Portugal
-Tesla Model Y Long Range AWD,48895,2023,5218,blanco,Portugal
-Tesla Model 3 Long Range AWD,49975,2025,0,blanco,Portugal
+Tesla Model 3 Long Range AWD,46500,2024,16541,blanco,Portugal
+Tesla Model 3 Long Range RWD,48205,2025,218,blanco,Portugal
+Tesla Model Y Long Range AWD,48885,2023,5268,blanco,Portugal
 Tesla Model Y Long Range RWD,49975,2025,4,blanco,Portugal
 Tesla Model 3 Long Range AWD,49975,2024,0,blanco,Portugal
-Tesla Model Y Long Range AWD,50375,2025,0,blanco,Portugal
-Tesla Model Y Long Range AWD,50875,2024,6214,blanco,Portugal
-Tesla Model 3 Long Range RWD,50975,2025,9,blanco,Portugal
-Tesla Model 3 Long Range AWD,51175,2025,0,blanco,Portugal
-Tesla Model 3 Long Range AWD,51325,2025,0,blanco,Portugal
-Tesla Model 3 Long Range AWD,51325,2024,0,blanco,Portugal
-Tesla Model Y Long Range AWD,51515,2025,0,blanco,Portugal
+Tesla Model Y Long Range AWD,50825,2024,6444,blanco,Portugal
+Tesla Model Y Long Range RWD,51325,2025,2,blanco,Portugal
+Tesla Model Y Long Range AWD,51515,2025,5,blanco,Portugal
 Tesla Model Y Long Range AWD,51655,2025,4,blanco,Portugal
 Tesla Model Y Long Range AWD,51655,2024,0,blanco,Portugal
 Tesla Model Y Long Range AWD,51655,2024,12,blanco,Portugal
-Tesla Model 3 Long Range AWD,51675,2025,0,blanco,Portugal
-Tesla Model 3 Long Range AWD,51675,2024,13,blanco,Portugal
-Tesla Model 3 Long Range AWD,52525,2025,10,blanco,Portugal
-Tesla Model 3 Long Range AWD,52525,2024,0,blanco,Portugal
-Tesla Model 3 Long Range AWD,52875,2024,13,blanco,Portugal
-Tesla Model 3 Long Range AWD,53025,2025,0,blanco,Portugal
-Tesla Model 3 Long Range AWD,53025,2024,0,blanco,Portugal
+Tesla Model 3 Long Range AWD,53775,2024,13,blanco,Portugal
 Tesla Model Y Long Range AWD,55455,2025,4,blanco,Portugal
-Tesla Model 3 Performance,58475,2025,10,blanco,Portugal
-Tesla Model 3 Performance,58475,2024,13,blanco,Portugal
-Tesla Model Y Performance,58975,2025,0,blanco,Portugal
+Tesla Model 3 Performance,56155,2024,12,blanco,Portugal
+Tesla Model 3 Performance,58475,2024,12,blanco,Portugal
 Tesla Model 3 Performance,59675,2025,0,blanco,Portugal
-Tesla Model 3 Performance,59675,2024,11,blanco,Portugal
 Tesla Model 3 Performance,62275,2024,12,blanco,Portugal
-Tesla Model 3 Performance,65975,2024,12,blanco,Portugal
-Tesla Model S,95225,2024,6465,blanco,Portugal
-Tesla Model X Plaid,97375,2023,3525,blanco,Portugal
-Tesla Model S,99005,2023,776,blanco,Portugal
-Tesla Model X,115725,2024,0,blanco,Portugal
+Tesla Model S,95025,2024,7046,blanco,Portugal
+Tesla Model S,98665,2023,1278,blanco,Portugal
 Tesla Model S Plaid,115925,2024,17,blanco,Portugal
-Tesla Model X,116925,2024,0,blanco,Portugal
-Tesla Model X Plaid,123925,2024,0,blanco,Portugal
-Tesla Model 3,38475,2025,0,azul,Portugal
-Tesla Model 3,39675,2025,10,azul,Portugal
-Tesla Model 3,39675,2024,0,azul,Portugal
-Tesla Model 3,39825,2025,0,azul,Portugal
-Tesla Model 3,39825,2024,0,azul,Portugal
-Tesla Model 3,40175,2025,0,azul,Portugal
-Tesla Model Y Standard Range,42645,2025,0,azul,Portugal
 Tesla Model Y Standard Range,42645,2024,9,azul,Portugal
 Tesla Model Y Standard Range,44715,2024,0,azul,Portugal
 Tesla Model Y Standard Range,45795,2024,0,azul,Portugal
-Tesla Model Y Standard Range,45795,2024,16,azul,Portugal
-Tesla Model 3 Long Range RWD,47015,2025,10,azul,Portugal
-Tesla Model 3 Long Range AWD,49385,2024,7172,azul,Portugal
+Tesla Model 3 Long Range AWD,49325,2024,7458,azul,Portugal
 Tesla Model Y Long Range AWD,49995,2023,5887,azul,Portugal
-Tesla Model 3 Long Range AWD,51275,2025,0,azul,Portugal
+Tesla Model Y Long Range RWD,51275,2025,4,azul,Portugal
 Tesla Model Y Long Range RWD,52625,2025,0,azul,Portugal
-Tesla Model 3 Long Range AWD,52625,2025,0,azul,Portugal
-Tesla Model 3 Long Range AWD,52625,2024,0,azul,Portugal
 Tesla Model Y Long Range AWD,52635,2024,3709,azul,Portugal
-Tesla Model 3 Long Range AWD,52975,2025,10,azul,Portugal
-Tesla Model 3 Long Range AWD,52975,2024,0,azul,Portugal
+Tesla Model Y Long Range AWD,52755,2025,5,azul,Portugal
 Tesla Model Y Long Range AWD,53795,2024,0,azul,Portugal
 Tesla Model Y Long Range AWD,54035,2024,4,azul,Portugal
-Tesla Model 3 Long Range AWD,54325,2024,10,azul,Portugal
-Tesla Model Y Long Range AWD,55005,2024,3976,azul,Portugal
+Tesla Model Y Long Range AWD,54985,2024,4034,azul,Portugal
 Tesla Model Y Long Range AWD,56215,2024,0,azul,Portugal
-Tesla Model 3 Performance,59775,2025,0,azul,Portugal
-Tesla Model 3 Performance,59775,2024,0,azul,Portugal
-Tesla Model 3 Performance,60975,2025,10,azul,Portugal
-Tesla Model 3 Performance,60975,2024,0,azul,Portugal
-Tesla Model Y Performance,61475,2024,7,azul,Portugal
-Tesla Model Y Performance,62825,2024,9,azul,Portugal
-Tesla Model Y Performance,64815,2024,13,azul,Portugal
+Tesla Model 3 Performance,56245,2024,0,azul,Portugal
+Tesla Model Y Performance,57315,2024,12,azul,Portugal
+Tesla Model Y Long Range AWD,57345,2025,6,azul,Portugal
+Tesla Model 3 Performance,57375,2024,0,azul,Portugal
+Tesla Model Y Performance,58455,2024,7,azul,Portugal
+Tesla Model Y Performance,59735,2024,9,azul,Portugal
+Tesla Model 3 Performance,61175,2024,12,azul,Portugal
 Tesla Model X,106445,2024,31,azul,Portugal
-Tesla Model X,106905,2023,14588,azul,Portugal
-Tesla Model X,115075,2024,20,azul,Portugal
+Tesla Model X,106845,2023,14816,azul,Portugal
 Tesla Model X,115825,2023,116,azul,Portugal
+Tesla Model 3 Long Range AWD,26500,2019,139637,negro,Portugal
 Tesla Model 3 Long Range AWD,32900,2020,81783,negro,Portugal
-Tesla Model 3,41995,2024,5229,negro,Portugal
-Tesla Model Y Standard Range,42645,2025,0,negro,Portugal
+Tesla Model 3,41955,2024,5398,negro,Portugal
+Tesla Model Y Long Range AWD,42200,2022,34918,negro,Portugal
 Tesla Model 3,43475,2025,0,negro,Portugal
-Tesla Model Y Long Range AWD,41600,2022,31021,negro,Portugal
-Tesla Model 3,43625,2025,0,negro,Portugal
-Tesla Model Y Standard Range,43725,2025,5,negro,Portugal
 Tesla Model 3,43975,2025,0,negro,Portugal
 Tesla Model 3,43975,2024,0,negro,Portugal
+Tesla Model Y Long Range AWD,44500,2022,31021,negro,Portugal
+Tesla Model Y Standard Range,44715,2025,5,negro,Portugal
 Tesla Model Y Standard Range,44715,2024,0,negro,Portugal
+Tesla Model 3 Performance,45100,2022,27705,negro,Portugal
 Tesla Model Y Standard Range,45935,2024,7,negro,Portugal
 Tesla Model 3 Long Range RWD,47275,2025,0,negro,Portugal
+Tesla Model Y Performance,47300,2022,46832,negro,Portugal
+Tesla Model Y Performance,48000,2022,37987,negro,Portugal
 Tesla Model 3 Long Range RWD,48975,2025,0,negro,Portugal
-Tesla Model 3 Long Range AWD,50235,2024,9264,negro,Portugal
-Tesla Model 3 Long Range AWD,51275,2025,0,negro,Portugal
+Tesla Model 3 Long Range AWD,50215,2024,9383,negro,Portugal
+Tesla Model Y Long Range RWD,51275,2025,4,negro,Portugal
 Tesla Model Y Long Range RWD,51405,2024,2545,negro,Portugal
-Tesla Model Y Long Range AWD,51615,2025,2,negro,Portugal
-Tesla Model 3 Long Range AWD,52475,2025,10,negro,Portugal
-Tesla Model 3 Long Range AWD,52625,2025,0,negro,Portugal
-Tesla Model 3 Long Range AWD,52625,2024,0,negro,Portugal
-Tesla Model 3 Long Range AWD,52975,2024,0,negro,Portugal
+Tesla Model Y Long Range RWD,52475,2025,2,negro,Portugal
 Tesla Model Y Long Range RWD,53575,2024,5,negro,Portugal
+Tesla Model 3 Performance,57375,2024,13,negro,Portugal
 Tesla Model Y Long Range AWD,58735,2025,4,negro,Portugal
 Tesla Model 3 Performance,59775,2024,0,negro,Portugal
-Tesla Model Y Performance,60275,2025,5,negro,Portugal
-Tesla Model 3 Performance,60975,2025,0,negro,Portugal
-Tesla Model 3 Performance,60975,2024,13,negro,Portugal
 Tesla Model Y Performance,61475,2025,4,negro,Portugal
-Tesla Model Y Performance,67775,2025,4,negro,Portugal
 Tesla Model S,103525,2023,0,negro,Portugal
 Tesla Model X,108075,2023,34,negro,Portugal
-Tesla Model X,112575,2024,20,negro,Portugal
-Tesla Model X,115075,2024,0,negro,Portugal
 Tesla Model X,122025,2023,25,negro,Portugal
+Tesla Model Y Long Range AWD,42300,2022,36306,plata,Portugal
 Tesla Model 3 Long Range AWD,43900,2023,14886,plata,Portugal
-Tesla Model Y Long Range AWD,45500,2022,36306,plata,Portugal
 Tesla Model 3 Performance,46600,2022,19834,plata,Portugal
 Tesla Model X P100D,58000,2019,64984,plata,Portugal
-Tesla Model X,120425,2023,26,plata,Portugal
-Tesla Model 3,42975,2025,0,rojo,Portugal
-Tesla Model 3,42975,2024,0,rojo,Portugal
-Tesla Model 3,44175,2025,0,rojo,Portugal
-Tesla Model 3,44175,2024,9,rojo,Portugal
-Tesla Model 3,44325,2025,0,rojo,Portugal
 Tesla Model 3,44675,2025,10,rojo,Portugal
-Tesla Model 3,44675,2024,12,rojo,Portugal
-Tesla Model 3 Long Range RWD,50875,2025,9,rojo,Portugal
-Tesla Model 3 Long Range AWD,51975,2024,0,rojo,Portugal
-Tesla Model 3 Long Range AWD,53175,2024,0,rojo,Portugal
-Tesla Model 3 Long Range AWD,53325,2025,0,rojo,Portugal
-Tesla Model 3 Long Range AWD,53325,2024,0,rojo,Portugal
-Tesla Model 3 Long Range AWD,53675,2025,0,rojo,Portugal
-Tesla Model 3 Long Range AWD,53675,2024,0,rojo,Portugal
-Tesla Model 3 Long Range AWD,55775,2024,12,rojo,Portugal
+Tesla Model 3 Long Range AWD,52715,2024,12,rojo,Portugal
+Tesla Model 3 Performance,58035,2024,0,rojo,Portugal
 Tesla Model 3 Performance,60475,2024,0,rojo,Portugal
-Tesla Model 3 Performance,61675,2024,0,rojo,Portugal
-Tesla Model S,96325,2024,22,rojo,Portugal
-Tesla Model X,113575,2024,17,rojo,Portugal
-Tesla Model S Plaid,115835,2024,3197,rojo,Portugal
-Tesla Model X Plaid,116665,2024,25,rojo,Portugal
-Tesla Model X,117075,2024,31,rojo,Portugal
-Tesla Model X,119525,2024,26,rojo,Portugal
-Tesla Model X,123025,2024,17,rojo,Portugal
+Tesla Model S,96075,2024,23,rojo,Portugal
+Tesla Model S Plaid,115745,2024,3393,rojo,Portugal
+Tesla Model X Plaid,116205,2024,26,rojo,Portugal
 Tesla Model X Plaid,126525,2024,31,rojo,Portugal
-Tesla Model X Plaid,129025,2024,0,rojo,Portugal
 Tesla Model 3,43475,2025,0,gris,Portugal
-Tesla Model 3 Long Range RWD,48475,2025,99,gris,Portugal
 Tesla Model 3 Long Range AWD,51275,2024,0,gris,Portugal
-Tesla Model 3 Long Range AWD,52625,2025,10,gris,Portugal
-Tesla Model 3 Long Range AWD,52625,2024,0,gris,Portugal
-Tesla Model 3 Long Range AWD,52975,2025,9,gris,Portugal
-Tesla Model 3 Performance,59775,2024,10,gris,Portugal
-Tesla Model 3 Performance,60975,2024,10,gris,Portugal
-Tesla Model X,116075,2024,28,gris,Portugal
-Tesla Model 3 Long Range AWD,26800,2019,108471,blanco,France
-Tesla Model 3 Long Range AWD,28400,2021,145102,blanco,France
-Tesla Model 3 Long Range AWD,28500,2020,94337,blanco,France
-Tesla Model 3 Long Range AWD,29700,2020,68845,blanco,France
+Tesla Model 3 Long Range AWD,28200,2020,94337,blanco,France
+Tesla Model 3 Long Range AWD,28900,2020,68845,blanco,France
+Tesla Model 3 Long Range AWD,30600,2021,112637,blanco,France
 Tesla Model 3 Long Range AWD,30800,2020,53808,blanco,France
-Tesla Model 3 Long Range AWD,30800,2020,52917,blanco,France
-Tesla Model 3 Performance,31200,2019,35858,blanco,France
-Tesla Model 3 Long Range AWD,31300,2020,49251,blanco,France
-Tesla Model 3 Performance,31600,2020,61733,blanco,France
-Tesla Model 3 Long Range AWD,31500,2021,79887,blanco,France
+Tesla Model 3 Long Range AWD,30700,2020,52917,blanco,France
+Tesla Model 3 Standard Range Plus,31000,2021,57691,blanco,France
+Tesla Model 3 Performance,31000,2019,63570,blanco,France
+Tesla Model 3 Long Range AWD,31100,2020,49251,blanco,France
+Tesla Model 3 Standard Range Plus,31200,2021,46308,blanco,France
+Tesla Model 3 Long Range AWD,31300,2021,79887,blanco,France
+Tesla Model 3 Performance,31800,2020,61733,blanco,France
+Tesla Model 3 Long Range AWD,32000,2021,76126,blanco,France
+Tesla Model 3 Long Range AWD,31800,2020,55927,blanco,France
 Tesla Model 3 Performance,32200,2020,44365,blanco,France
-Tesla Model 3 Long Range AWD,32200,2020,55927,blanco,France
-Tesla Model 3 Performance,32200,2019,63570,blanco,France
 Tesla Model 3 Long Range AWD,33300,2020,65224,blanco,France
-Tesla Model 3 Long Range AWD,33700,2021,76126,blanco,France
-Tesla Model 3 Performance,35500,2020,40623,blanco,France
+Tesla Model 3 Standard Range Plus,32800,2021,37680,blanco,France
+Tesla Model 3 Standard Range Plus,33900,2021,24781,blanco,France
+Tesla Model 3 Performance,34700,2020,40623,blanco,France
+Tesla Model 3 Long Range AWD,39400,2021,31909,blanco,France
 Tesla Model 3,39990,2025,10,blanco,France
-Tesla Model 3 Long Range AWD,40200,2021,31909,blanco,France
+Tesla Model Y Standard Range,40990,2025,5,blanco,France
+Tesla Model Y Standard Range,40990,2025,226,blanco,France
+Tesla Model Y Standard Range,40990,2024,9,blanco,France
 Tesla Model 3,41180,2025,0,blanco,France
-Tesla Model 3,41180,2025,0,blanco,France
-Tesla Model 3,41180,2024,0,blanco,France
 Tesla Model 3,41180,2024,0,blanco,France
 Tesla Model 3,41340,2025,0,blanco,France
-Tesla Model 3,42370,2025,0,blanco,France
-Tesla Model 3,42370,2024,0,blanco,France
+Tesla Model Y Standard Range,42180,2025,5,blanco,France
 Tesla Model 3,42530,2025,0,blanco,France
 Tesla Model 3,42530,2024,0,blanco,France
-Tesla Model Y Standard Range,43090,2025,4,blanco,France
-Tesla Model S 100D,44000,2019,96688,blanco,France
-Tesla Model Y Standard Range,44280,2025,0,blanco,France
-Tesla Model Y Standard Range,44280,2024,0,blanco,France
-Tesla Model 3 Long Range RWD,44900,2023,31004,blanco,France
+Tesla Model Y Standard Range,43090,2024,10,blanco,France
+Tesla Model S 100D,43400,2019,96688,blanco,France
+Tesla Model Y Standard Range,44280,2024,7,blanco,France
+Tesla Model 3 Long Range RWD,44990,2025,10,blanco,France
 Tesla Model 3,45140,2025,13,blanco,France
-Tesla Model Y Standard Range,45630,2024,3,blanco,France
-Tesla Model 3 Long Range RWD,39000,2023,24197,blanco,France
+Tesla Model 3 Long Range AWD,45380,2024,9561,blanco,France
+Tesla Model Y Performance,46800,2022,20423,blanco,France
 Tesla Model Y Long Range RWD,46990,2025,0,blanco,France
 Tesla Model 3 Long Range AWD,47240,2024,6399,blanco,France
-Tesla Model 3 Long Range AWD,47510,2024,5616,blanco,France
+Tesla Model 3 Long Range AWD,47490,2024,5741,blanco,France
+Tesla Model 3 Long Range AWD,47540,2024,2337,blanco,France
+Tesla Model Y Long Range AWD,47800,2025,5,blanco,France
 Tesla Model Y Long Range AWD,47990,2025,0,blanco,France
-Tesla Model Y Long Range RWD,48180,2025,4,blanco,France
-Tesla Model 3 Long Range AWD,48640,2024,15,blanco,France
+Tesla Model Y Long Range AWD,47990,2024,5,blanco,France
+Tesla Model 3 Long Range AWD,48620,2024,15,blanco,France
 Tesla Model Y Long Range AWD,49180,2025,0,blanco,France
 Tesla Model Y Long Range AWD,49180,2024,0,blanco,France
 Tesla Model Y Long Range AWD,49180,2024,6,blanco,France
-Tesla Model Y Long Range AWD,49230,2024,5,blanco,France
 Tesla Model Y Long Range AWD,49340,2025,0,blanco,France
 Tesla Model Y Long Range AWD,49340,2024,4,blanco,France
-Tesla Model Y Performance,49600,2022,20423,blanco,France
+Tesla Model Y Long Range RWD,49530,2025,5,blanco,France
+Tesla Model Y Long Range AWD,49770,2025,0,blanco,France
 Tesla Model 3 Long Range AWD,49990,2025,0,blanco,France
 Tesla Model 3 Long Range AWD,49990,2024,0,blanco,France
 Tesla Model Y Long Range AWD,50090,2025,0,blanco,France
-Tesla Model Y Long Range AWD,50530,2025,0,blanco,France
-Tesla Model Y Long Range AWD,50530,2024,4,blanco,France
-Tesla Model 3 Long Range AWD,51180,2025,0,blanco,France
+Tesla Model Y Long Range AWD,50790,2024,0,blanco,France
+Tesla Model Y Long Range AWD,51110,2025,9,blanco,France
 Tesla Model 3 Long Range AWD,51180,2025,0,blanco,France
 Tesla Model 3 Long Range AWD,51180,2024,0,blanco,France
 Tesla Model Y Long Range AWD,51280,2025,0,blanco,France
-Tesla Model 3 Long Range AWD,51340,2025,0,blanco,France
 Tesla Model 3 Long Range AWD,51340,2024,0,blanco,France
 Tesla Model Y Long Range AWD,51440,2025,0,blanco,France
-Tesla Model 3 Long Range AWD,52170,2024,13,blanco,France
+Tesla Model Y Long Range AWD,51850,2025,0,blanco,France
+Tesla Model 3 Long Range AWD,52080,2024,15,blanco,France
 Tesla Model 3 Long Range AWD,52370,2024,0,blanco,France
-Tesla Model 3 Long Range AWD,52530,2025,0,blanco,France
-Tesla Model 3 Long Range AWD,52530,2025,0,blanco,France
-Tesla Model 3 Long Range AWD,52530,2024,0,blanco,France
 Tesla Model 3 Long Range AWD,52530,2024,0,blanco,France
 Tesla Model Y Long Range AWD,52630,2024,7,blanco,France
+Tesla Model Y Long Range AWD,52850,2024,15,blanco,France
 Tesla Model 3 Long Range AWD,53790,2024,0,blanco,France
 Tesla Model Y Performance,53990,2025,0,blanco,France
 Tesla Model X Long Range Plus,54000,2020,53949,blanco,France
+Tesla Model X Long Range,54100,2020,91785,blanco,France
+Tesla Model 3 Performance,55160,2024,9,blanco,France
+Tesla Model Y Performance,55180,2025,4,blanco,France
 Tesla Model Y Performance,55180,2024,0,blanco,France
 Tesla Model Y Performance,55340,2024,0,blanco,France
-Tesla Model X Long Range,55500,2020,91785,blanco,France
-Tesla Model 3 Performance,56920,2024,12,blanco,France
-Tesla Model 3 Performance,57490,2025,0,blanco,France
 Tesla Model 3 Performance,57490,2024,0,blanco,France
+Tesla Model Y Performance,57790,2025,0,blanco,France
 Tesla Model 3 Performance,58680,2024,0,blanco,France
-Tesla Model Y Performance,61490,2025,4,blanco,France
-Tesla Model S,84070,2023,3414,blanco,France
-Tesla Model S,90450,2024,710,blanco,France
-Tesla Model X,99990,2024,23,blanco,France
-Tesla Model X,112490,2024,0,blanco,France
-Tesla Model X,113690,2024,0,blanco,France
+Tesla Model Y Performance,59140,2025,2,blanco,France
+Tesla Model S,83980,2023,3414,blanco,France
+Tesla Model S,90200,2024,723,blanco,France
+Tesla Model X,103390,2024,21,blanco,France
 Tesla Model S Plaid,115290,2024,25,blanco,France
 Tesla Model X,117090,2023,0,blanco,France
 Tesla Model X Plaid,120890,2024,0,blanco,France
-Tesla Model 3 Standard Range Plus,26900,2020,45691,azul,France
-Tesla Model 3 Long Range AWD,30200,2020,56115,azul,France
-Tesla Model 3 Long Range AWD,31600,2021,103272,azul,France
-Tesla Model 3 Performance,35800,2021,90951,azul,France
-Tesla Model 3 Long Range AWD,37000,2020,22191,azul,France
-Tesla Model 3 Performance,40000,2021,43763,azul,France
+Tesla Model 3 Long Range AWD,30000,2020,56115,azul,France
+Tesla Model 3 Standard Range Plus,30900,2021,50581,azul,France
+Tesla Model 3 Long Range AWD,31700,2020,22191,azul,France
+Tesla Model 3 Long Range AWD,32600,2020,78898,azul,France
+Tesla Model 3 Performance,34100,2021,90951,azul,France
+Tesla Model 3 Performance,38000,2021,43763,azul,France
 Tesla Model 3,40080,2024,13,azul,France
-Tesla Model 3,40700,2024,757,azul,France
+Tesla Model 3,40520,2024,1848,azul,France
+Tesla Model 3,40640,2024,807,azul,France
+Tesla Model 3,41140,2024,0,azul,France
 Tesla Model 3,41170,2024,21,azul,France
 Tesla Model 3,41290,2025,0,azul,France
-Tesla Model 3,41290,2024,0,azul,France
-Tesla Model 3,41290,2024,0,azul,France
-Tesla Model 3,41460,2024,15,azul,France
-Tesla Model 3,41460,2024,15,azul,France
-Tesla Model 3,41460,2024,29,azul,France
-Tesla Model 3,41460,2024,2629,azul,France
-Tesla Model Y Standard Range,42290,2024,12,azul,France
-Tesla Model 3,42480,2025,0,azul,France
-Tesla Model 3,42480,2025,0,azul,France
+Tesla Model 3,41440,2024,15,azul,France
+Tesla Model 3,41440,2024,15,azul,France
+Tesla Model 3,41440,2024,29,azul,France
+Tesla Model 3,41440,2024,2629,azul,France
 Tesla Model 3,42480,2024,0,azul,France
 Tesla Model 3,42480,2024,0,azul,France
 Tesla Model 3,42640,2025,0,azul,France
 Tesla Model 3,42640,2024,0,azul,France
-Tesla Model Y Long Range AWD,43100,2022,71294,azul,France
+Tesla Model Y Standard Range,43480,2025,5,azul,France
 Tesla Model X 100D,44200,2019,114328,azul,France
-Tesla Model 3,47580,2024,13,azul,France
 Tesla Model Y Long Range AWD,49290,2025,0,azul,France
-Tesla Model 3,49980,2024,10,azul,France
-Tesla Model 3 Long Range AWD,50190,2024,1412,azul,France
+Tesla Model 3 Long Range AWD,49330,2024,0,azul,France
+Tesla Model 3 Long Range AWD,50170,2024,1412,azul,France
+Tesla Model Y Long Range RWD,50390,2025,4,azul,France
 Tesla Model 3 Long Range AWD,50600,2024,15,azul,France
+Tesla Model Y Long Range AWD,50640,2025,4,azul,France
 Tesla Model 3 Long Range AWD,51290,2025,0,azul,France
 Tesla Model 3 Long Range AWD,51290,2024,0,azul,France
-Tesla Model Y Long Range AWD,51390,2025,2,azul,France
-Tesla Model 3 Long Range AWD,52480,2025,10,azul,France
+Tesla Model Y Long Range AWD,51390,2025,4,azul,France
+Tesla Model Y Long Range AWD,51390,2024,7,azul,France
+Tesla Model S Long Range,51500,2020,96181,azul,France
+Tesla Model Y Long Range AWD,52390,2025,5,azul,France
 Tesla Model 3 Long Range AWD,52480,2024,0,azul,France
 Tesla Model 3 Long Range AWD,52480,2024,0,azul,France
-Tesla Model 3 Long Range AWD,52640,2025,0,azul,France
 Tesla Model 3 Long Range AWD,52640,2024,0,azul,France
-Tesla Model S Long Range,53500,2020,96181,azul,France
-Tesla Model 3 Long Range AWD,53830,2024,0,azul,France
-Tesla Model Y Performance,55290,2025,4,azul,France
-Tesla Model S Long Range,55550,2020,58870,azul,France
-Tesla Model 3 Performance,58790,2025,0,azul,France
-Tesla Model 3 Performance,59980,2025,0,azul,France
+Tesla Model Y Long Range AWD,53090,2025,4,azul,France
+Tesla Model S Long Range,53550,2020,58870,azul,France
+Tesla Model Y Performance,55290,2025,5,azul,France
+Tesla Model Y Performance,56640,2025,4,azul,France
+Tesla Model Y Performance,57830,2025,0,azul,France
+Tesla Model 3 Performance,58790,2025,12,azul,France
 Tesla Model 3 Performance,62590,2024,19,azul,France
-Tesla Model S,89450,2024,1063,azul,France
-Tesla Model X,111790,2024,20,azul,France
-Tesla Model X Plaid,113500,2024,401,azul,France
+Tesla Model S,89220,2024,1064,azul,France
+Tesla Model S Plaid,96400,2023,50,azul,France
+Tesla Model X Plaid,113040,2024,401,azul,France
 Tesla Model X,118690,2023,60,azul,France
 Tesla Model X Plaid,124890,2023,31,azul,France
-Tesla Model 3 Long Range AWD,25200,2019,141692,negro,France
-Tesla Model 3 Performance,33200,2020,63684,negro,France
-Tesla Model 3 Performance,34870,2019,51506,negro,France
-Tesla Model 3 Performance,36300,2020,111567,negro,France
-Tesla Model 3,37700,2023,28589,negro,France
-Tesla Model 3 Long Range RWD,38400,2023,36843,negro,France
-Tesla Model 3,41050,2024,15,negro,France
-Tesla Model 3,41290,2025,10,negro,France
-Tesla Model 3,41290,2024,14,negro,France
-Tesla Model S 100D,38500,2018,84325,negro,France
-Tesla Model 3,41760,2024,166,negro,France
-Tesla Model S Long Range,42000,2019,102621,negro,France
-Tesla Model 3,42160,2024,12,negro,France
+Tesla Model 3 Performance,31200,2019,55066,negro,France
+Tesla Model 3 Performance,33400,2020,63684,negro,France
+Tesla Model 3 Performance,33700,2019,51506,negro,France
+Tesla Model 3 Long Range RWD,35300,2023,36843,negro,France
+Tesla Model 3,36500,2023,28589,negro,France
+Tesla Model S 100D,38000,2018,84325,negro,France
+Tesla Model 3,41140,2024,15,negro,France
+Tesla Model 3,41290,2025,0,negro,France
+Tesla Model 3,41290,2024,12,negro,France
+Tesla Model S Long Range,41400,2019,102621,negro,France
+Tesla Model 3,42080,2024,12,negro,France
 Tesla Model 3,42480,2025,0,negro,France
 Tesla Model 3,42480,2024,0,negro,France
 Tesla Model 3,42640,2025,0,negro,France
 Tesla Model 3,42640,2024,0,negro,France
 Tesla Model 3,42640,2024,10,negro,France
-Tesla Model Y Standard Range,43640,2024,0,negro,France
+Tesla Model 3,42640,2024,12,negro,France
+Tesla Model Y Standard Range,44390,2025,4,negro,France
+Tesla Model Y Standard Range,44390,2024,9,negro,France
 Tesla Model S Performance,44500,2019,99838,negro,France
 Tesla Model 3 Long Range RWD,46290,2025,0,negro,France
-Tesla Model 3,47430,2024,11,negro,France
-Tesla Model Y Long Range AWD,47850,2024,0,negro,France
-Tesla Model Y Long Range RWD,48290,2025,5,negro,France
+Tesla Model 3 Long Range RWD,47480,2025,9,negro,France
+Tesla Model 3 Long Range RWD,47480,2025,12,negro,France
+Tesla Model Y Long Range AWD,47830,2024,0,negro,France
+Tesla Model 3 Long Range AWD,48500,2024,6166,negro,France
+Tesla Model Y Performance,48800,2022,14953,negro,France
 Tesla Model Y Long Range AWD,49290,2025,0,negro,France
 Tesla Model Y Long Range AWD,49290,2024,0,negro,France
-Tesla Model Y Long Range AWD,49290,2024,4,negro,France
 Tesla Model Y Long Range AWD,49290,2024,145,negro,France
-Tesla Model Y Long Range AWD,49400,2023,11184,negro,France
-Tesla Model Y Long Range AWD,49890,2024,7,negro,France
-Tesla Model 3 Long Range RWD,50090,2025,10,negro,France
-Tesla Model Y Long Range AWD,50480,2025,0,negro,France
+Tesla Model Y Long Range AWD,50480,2025,2,negro,France
+Tesla Model 3 Long Range AWD,50600,2024,12,negro,France
 Tesla Model Y Long Range AWD,50640,2025,0,negro,France
 Tesla Model 3 Long Range AWD,51290,2025,0,negro,France
+Tesla Model 3 Long Range AWD,51290,2025,10,negro,France
 Tesla Model 3 Long Range AWD,51290,2024,0,negro,France
 Tesla Model Y Long Range AWD,51390,2025,0,negro,France
-Tesla Model Y Long Range RWD,51740,2025,4,negro,France
+Tesla Model Y Long Range AWD,51390,2024,5,negro,France
 Tesla Model X P100D,51800,2019,95034,negro,France
 Tesla Model Y Long Range AWD,51830,2025,2,negro,France
-Tesla Model Y Performance,52100,2022,14953,negro,France
-Tesla Model 3 Long Range AWD,52480,2025,0,negro,France
-Tesla Model 3 Long Range AWD,52480,2025,0,negro,France
 Tesla Model 3 Long Range AWD,52480,2024,0,negro,France
-Tesla Model Y Long Range AWD,52580,2025,0,negro,France
 Tesla Model Y Long Range AWD,52580,2024,7,negro,France
-Tesla Model 3 Long Range AWD,52640,2025,0,negro,France
-Tesla Model 3 Long Range AWD,52640,2024,0,negro,France
-Tesla Model Y Long Range AWD,52980,2025,0,negro,France
 Tesla Model Y Long Range AWD,53090,2025,4,negro,France
+Tesla Model Y Long Range AWD,53090,2024,4,negro,France
+Tesla Model Y Long Range AWD,53890,2025,4,negro,France
 Tesla Model Y Long Range AWD,54280,2025,5,negro,France
+Tesla Model Y Long Range AWD,54440,2025,4,negro,France
 Tesla Model X Long Range,55000,2019,59026,negro,France
 Tesla Model Y Performance,55290,2025,0,negro,France
 Tesla Model Y Performance,55290,2024,4,negro,France
+Tesla Model Y Performance,56480,2024,5,negro,France
 Tesla Model Y Performance,56640,2025,0,negro,France
 Tesla Model Y Performance,56640,2024,0,negro,France
-Tesla Model 3 Long Range AWD,58790,2025,9,negro,France
-Tesla Model 3 Long Range AWD,58790,2025,10,negro,France
 Tesla Model 3 Performance,58790,2024,0,negro,France
-Tesla Model 3 Performance,59980,2025,0,negro,France
 Tesla Model 3 Performance,59980,2024,0,negro,France
+Tesla Model Y Performance,60280,2024,7,negro,France
 Tesla Model 3 Performance,62590,2024,10,negro,France
-Tesla Model S,87410,2024,5165,negro,France
-Tesla Model S Plaid,89900,2023,27477,negro,France
-Tesla Model S,92380,2024,31,negro,France
-Tesla Model S,94300,2024,797,negro,France
+Tesla Model S,87220,2024,5165,negro,France
+Tesla Model S Plaid,88500,2023,27477,negro,France
+Tesla Model S,92140,2024,31,negro,France
 Tesla Model S,102280,2023,1011,negro,France
-Tesla Model X,103050,2024,18,negro,France
+Tesla Model X,102780,2024,18,negro,France
 Tesla Model X,108190,2024,49,negro,France
 Tesla Model X,109390,2024,20,negro,France
-Tesla Model S Plaid,110380,2024,541,negro,France
-Tesla Model X,111790,2024,0,negro,France
+Tesla Model S Plaid,109940,2024,541,negro,France
 Tesla Model X,115290,2024,20,negro,France
+Tesla Model S Plaid,115490,2024,17,negro,France
 Tesla Model X,118690,2023,23,negro,France
-Tesla Model 3 Standard Range Plus,29000,2020,54847,plata,France
+Tesla Model X,119290,2024,20,negro,France
+Tesla Model 3 Standard Range Plus,27300,2020,54847,plata,France
 Tesla Model S 75D,28600,2018,127132,plata,France
-Tesla Model 3 Long Range AWD,29900,2019,65352,plata,France
-Tesla Model 3 Standard Range Plus,30100,2021,40244,plata,France
-Tesla Model 3 Long Range AWD,31000,2019,45587,plata,France
-Tesla Model 3 Performance,31700,2020,46586,plata,France
-Tesla Model 3 Long Range AWD,31800,2021,106571,plata,France
-Tesla Model 3 Performance,33700,2021,88254,plata,France
-Tesla Model 3 Long Range AWD,35200,2021,45659,plata,France
+Tesla Model 3 Long Range AWD,29200,2019,65352,plata,France
+Tesla Model 3 Standard Range Plus,29500,2021,40244,plata,France
+Tesla Model 3 Performance,31300,2020,46586,plata,France
+Tesla Model 3 Long Range AWD,32600,2019,45587,plata,France
+Tesla Model 3 Performance,33500,2021,88254,plata,France
 Tesla Model 3 Performance,39200,2020,30295,plata,France
-Tesla Model Y Long Range AWD,38100,2022,43516,plata,France
 Tesla Model X 100D,43200,2018,91833,plata,France
-Tesla Model X 100D,39500,2018,124003,plata,France
-Tesla Model X 100D,44500,2019,115609,plata,France
-Tesla Model S Long Range,46500,2019,56744,plata,France
-Tesla Model S Performance,47000,2019,88817,plata,France
-Tesla Model 3 Performance,47800,2023,12996,plata,France
+Tesla Model 3 Performance,45900,2023,12996,plata,France
+Tesla Model S Long Range,45900,2019,56744,plata,France
+Tesla Model 3 Performance,46000,2023,28590,plata,France
+Tesla Model X Long Range Plus,47000,2020,130467,plata,France
 Tesla Model X 100D,48500,2019,75286,plata,France
 Tesla Model X Long Range,49000,2019,98188,plata,France
 Tesla Model X 100D,49900,2018,52351,plata,France
 Tesla Model X 100D,51400,2019,84586,plata,France
 Tesla Model X Long Range,53800,2019,64177,plata,France
+Tesla Model X Performance,55500,2020,124770,plata,France
 Tesla Model X 100D,56000,2019,55363,plata,France
-Tesla Model X Long Range Plus,57000,2020,59115,plata,France
-Tesla Model X,94000,2023,12384,plata,France
+Tesla Model X,91000,2023,12384,plata,France
 Tesla Model X,109290,2023,86,plata,France
-Tesla Model X,117090,2023,26,plata,France
-Tesla Model 3 Performance,27900,2019,72649,rojo,France
-Tesla Model 3 Long Range AWD,30000,2021,136792,rojo,France
-Tesla Model 3 Standard Range Plus,30200,2021,42434,rojo,France
-Tesla Model 3 Long Range AWD,32400,2021,91051,rojo,France
-Tesla Model 3,35700,2023,26036,rojo,France
-Tesla Model 3 Long Range AWD,35900,2021,64707,rojo,France
-Tesla Model 3 Performance,36000,2020,38031,rojo,France
-Tesla Model 3 Performance,35900,2021,42177,rojo,France
-Tesla Model Y Long Range AWD,45500,2023,10713,rojo,France
+Tesla Model 3 Long Range AWD,29000,2021,136796,rojo,France
+Tesla Model 3,29900,2022,68266,rojo,France
+Tesla Model 3 Long Range AWD,30200,2021,91051,rojo,France
+Tesla Model 3 Long Range AWD,33700,2021,64707,rojo,France
+Tesla Model 3 Performance,34100,2020,38031,rojo,France
+Tesla Model 3,34600,2023,40947,rojo,France
+Tesla Model 3 Performance,36900,2021,42177,rojo,France
+Tesla Model Y Long Range AWD,44500,2023,10713,rojo,France
 Tesla Model S Performance,44700,2019,90274,rojo,France
-Tesla Model 3,41870,2024,52,rojo,France
+Tesla Model 3,38780,2024,3906,rojo,France
+Tesla Model 3,41830,2024,0,rojo,France
+Tesla Model 3,41850,2024,52,rojo,France
 Tesla Model 3,41900,2024,10,rojo,France
 Tesla Model 3,41990,2025,0,rojo,France
 Tesla Model 3,41990,2024,0,rojo,France
-Tesla Model 3,41990,2024,0,rojo,France
-Tesla Model 3,42020,2024,15,rojo,France
-Tesla Model 3,43020,2024,23,rojo,France
-Tesla Model 3,43140,2024,12,rojo,France
-Tesla Model 3,43180,2025,0,rojo,France
-Tesla Model 3,43180,2025,0,rojo,France
+Tesla Model 3,42010,2024,15,rojo,France
+Tesla Model 3,43010,2024,23,rojo,France
+Tesla Model 3,43120,2024,12,rojo,France
+Tesla Model 3,43180,2025,10,rojo,France
 Tesla Model 3,43180,2024,0,rojo,France
-Tesla Model 3,43290,2024,12,rojo,France
+Tesla Model 3,43280,2024,13,rojo,France
 Tesla Model 3,43340,2025,0,rojo,France
 Tesla Model 3,43340,2024,0,rojo,France
+Tesla Model 3,45790,2024,12,rojo,France
+Tesla Model 3,45790,2024,21,rojo,France
 Tesla Model 3 Long Range AWD,50430,2024,13,rojo,France
-Tesla Model 3 Long Range AWD,51560,2024,70,rojo,France
+Tesla Model 3 Long Range AWD,51540,2024,70,rojo,France
 Tesla Model 3 Long Range AWD,51580,2024,10,rojo,France
-Tesla Model 3 Long Range AWD,51600,2024,0,rojo,France
 Tesla Model 3 Long Range AWD,51990,2024,0,rojo,France
-Tesla Model 3 Long Range AWD,52600,2024,15,rojo,France
-Tesla Model 3 Long Range AWD,53020,2024,10,rojo,France
-Tesla Model 3 Long Range AWD,53180,2025,0,rojo,France
+Tesla Model 3 Long Range AWD,52580,2024,15,rojo,France
+Tesla Model 3 Long Range AWD,52700,2024,15,rojo,France
+Tesla Model 3 Long Range AWD,53000,2024,12,rojo,France
 Tesla Model 3 Long Range AWD,53180,2024,0,rojo,France
 Tesla Model 3 Long Range AWD,53180,2024,0,rojo,France
-Tesla Model 3 Long Range AWD,53340,2025,0,rojo,France
-Tesla Model 3 Long Range AWD,53340,2024,0,rojo,France
-Tesla Model 3 Long Range AWD,53900,2024,15,rojo,France
-Tesla Model 3 Performance,55190,2024,2192,rojo,France
+Tesla Model 3 Long Range AWD,53880,2024,15,rojo,France
 Tesla Model 3 Long Range AWD,55720,2024,12,rojo,France
-Tesla Model 3 Performance,59340,2024,12,rojo,France
-Tesla Model 3 Performance,59490,2025,11,rojo,France
 Tesla Model 3 Performance,59490,2024,24,rojo,France
-Tesla Model 3 Performance,60680,2024,17,rojo,France
+Tesla Model 3 Performance,60070,2024,13,rojo,France
 Tesla Model 3 Performance,64480,2024,11,rojo,France
-Tesla Model S Plaid,101360,2024,5313,rojo,France
-Tesla Model S Plaid,102710,2024,21,rojo,France
+Tesla Model S Plaid,101140,2024,5313,rojo,France
+Tesla Model S Plaid,102300,2024,21,rojo,France
 Tesla Model X,109200,2024,26,rojo,France
-Tesla Model X,110390,2024,17,rojo,France
-Tesla Model X Plaid,113530,2024,197,rojo,France
-Tesla Model X,113790,2024,31,rojo,France
-Tesla Model X,116290,2024,26,rojo,France
-Tesla Model X,119690,2024,17,rojo,France
-Tesla Model X Plaid,125890,2024,0,rojo,France
-Tesla Model 3,41290,2025,10,gris,France
-Tesla Model 3,41570,2024,2309,gris,France
-Tesla Model 3,42480,2025,0,gris,France
+Tesla Model X Plaid,113290,2024,197,rojo,France
 Tesla Model 3,42640,2025,0,gris,France
-Tesla Model 3,42640,2024,10,gris,France
-Tesla Model 3 Long Range RWD,46410,2025,536,gris,France
-Tesla Model 3 Long Range RWD,46620,2025,326,gris,France
+Tesla Model 3,46440,2024,10,gris,France
 Tesla Model 3 Long Range AWD,51290,2025,0,gris,France
 Tesla Model 3 Long Range AWD,51290,2024,0,gris,France
-Tesla Model 3 Long Range AWD,51290,2024,10,gris,France
 Tesla Model 3 Long Range AWD,52480,2025,0,gris,France
-Tesla Model 3 Long Range AWD,52640,2025,0,gris,France
 Tesla Model 3 Long Range AWD,52640,2024,0,gris,France
-Tesla Model 3 Long Range AWD,56440,2024,10,gris,France
-Tesla Model 3 Performance,59980,2024,0,gris,France
-Tesla Model X,112790,2024,28,gris,France
-Tesla Model S Plaid,115490,2024,18,gris,France
-Tesla Model S Plaid,116120,2024,26,gris,France
+Tesla Model 3 Long Range AWD,53670,2024,33,gris,France
+Tesla Model 3 Long Range AWD,56280,2025,10,gris,France
+Tesla Model 3 Performance,58790,2024,0,gris,France
+Tesla Model X,112790,2024,15,gris,France
+Tesla Model S Plaid,115680,2024,26,gris,France
 Tesla Model X Plaid,117590,2024,20,gris,France
+Tesla Model X Plaid,126890,2024,20,gris,France

@@ -1,158 +1,196 @@
-﻿modelo;descripcion;kilometraje;precio;autonomia;velocidad_max;time_veloc_max;color;pais;año
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 2622 km;82.010 €;634;250;3,2;Blanco Perla Multicapas;España;2024
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 6196 km;88.990 €;634;250;3,2;Azul Oscuro Metalizado;España;2024
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 792 km;90.610 €;634;250;3,2;Azul Oscuro Metalizado;España;2024
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 551 km;90.770 €;634;250;3,2;Negro Sólido;España;2024
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 881 km;91.500 €;634;250;3,2;Pintura en color Gris Sigilo;España;2024
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 28 km;92.030 €;634;250;3,2;Pintura en color Gris Sigilo;España;2024
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 17 km;97.750 €;634;250;3,2;Color Plateado Lunar;España;2024
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 503 km;99.600 €;634;250;3,2;Blanco Perla Multicapas;España;2024
-Model S;Plaid;Cuentakilómetros con 3652 km;101.480 €;600;322;2,1;Negro Sólido;España;2024
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 99 km;102.270 €;634;250;3,2;Blanco Perla Multicapas;España;2024
-Model S;Model S, tracción a las cuatro ruedas;102.270 €;102.270 €;634;250;3,2;Blanco Perla Multicapas;España;2024
-Model S;Plaid;Cuentakilómetros con 1700 km;102.540 €;600;322;2,1;Negro Sólido;España;2024
-Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 0 km;102.580 €;634;250;3,2;Pintura en color Gris Sigilo;España;2024
-Model S;Plaid;Cuentakilómetros con 25 km;111.850 €;600;322;2,1;Color Plateado Lunar;España;2024
-Model S;Plaid;Cuentakilómetros con 21 km;115.680 €;600;322;2,1;Azul Oscuro Metalizado;España;2024
-Model S;Plaid;Cuentakilómetros con 19 km;117.100 €;600;322;2,1;Pintura en color Gris Sigilo;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 6671 km;35.380 €;513;201;6,1;Pintura Plateado Mercurio;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 5390 km;35.640 €;513;201;6,1;Pintura Plateado Mercurio;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 5001 km;35.720 €;513;201;6,1;Pintura Plateado Mercurio;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 6577 km;36.270 €;513;201;6,1;Azul Oscuro Metalizado;España;2024
-Model 3;Model 3 Tracción trasera;36.470 €;36.470 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 5580 km;36.470 €;513;201;6,1;Azul Oscuro Metalizado;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 7232 km;36.740 €;513;201;6,1;Pintura Plateado Mercurio;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 5550 km;37.160 €;513;201;6,1;Pintura Plateado Mercurio;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 5656 km;37.310 €;513;201;6,1;Color Negro Sólido;España;2024
-Model 3;Model 3 Tracción trasera;37.520 €;37.520 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Tracción trasera;37.520 €;37.520 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Tracción trasera;37.770 €;37.770 €;513;201;6,1;Azul Oscuro Metalizado;España;2024
-Model 3;Model 3 Tracción trasera;38.070 €;38.070 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Tracción trasera;38.070 €;38.070 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Tracción trasera;38.470 €;38.470 €;513;201;6,1;Pintura Plateado Mercurio;España;2024
-Model 3;Model 3 Tracción trasera;38.470 €;38.470 €;513;201;6,1;Pintura en color Ultra Rojo;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 3351 km;38.470 €;513;201;6,1;Pintura en color Gris Sigilo;España;2024
-Model 3;Model 3 Tracción trasera;38.870 €;38.870 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Tracción trasera;39.120 €;39.120 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Tracción trasera;39.120 €;39.120 €;513;201;6,1;Azul Oscuro Metalizado;España;2024
-Model 3;Model 3 Tracción trasera;39.370 €;39.370 €;513;201;6,1;Azul Oscuro Metalizado;España;2024
-Model 3;Model 3 Tracción trasera;39.420 €;39.420 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Tracción trasera;39.420 €;39.420 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Tracción trasera;Cuentakilómetros con 15 km;39.740 €;513;201;6,1;Pintura Plateado Mercurio;España;2024
-Model 3;Model 3 Tracción trasera;39.820 €;39.820 €;513;201;6,1;Pintura Plateado Mercurio;España;2024
-Model 3;Model 3 Tracción trasera;40.070 €;40.070 €;513;201;6,1;Pintura Plateado Mercurio;España;2024
-Model 3;Model 3 Gran autonomía con tracción trasera;41.470 €;41.470 €;702;201;5,2;Color Blanco Perla Multicapas;España;2024
-Model 3;Model 3 Gran autonomía con tracción trasera;42.770 €;42.770 €;702;201;5,2;Color Negro Sólido;España;2024
-Model 3;Model 3 Gran autonomía con tracción trasera;43.820 €;43.820 €;702;201;5,2;Color Negro Sólido;España;2024
-Model 3;Model 3 Gran autonomía con tracción trasera;44.370 €;44.370 €;640;201;5,2;Color Negro Sólido;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 2204 km;45.980 €;629;201;4,4;Color Blanco Perla Multicapas;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 4790 km;46.940 €;629;201;4,4;Color Blanco Perla Multicapas;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 5875 km;47.450 €;629;201;4,4;Pintura Plateado Mercurio;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 5797 km;47.470 €;629;201;4,4;Pintura Plateado Mercurio;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 2051 km;47.650 €;629;201;4,4;Pintura en color Ultra Rojo;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 223 km;48.340 €;629;201;4,4;Color Blanco Perla Multicapas;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 13 km;48.360 €;629;201;4,4;Color Negro Sólido;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 223 km;48.570 €;629;201;4,4;Color Negro Sólido;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 1203 km;48.660 €;629;201;4,4;Pintura Plateado Mercurio;España;2024
-Model 3;Gran autonomía con tracción integral;48.760 €;48.760 €;629;201;4,4;Color Blanco Perla Multicapas;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 0 km;49.040 €;629;201;4,4;Pintura Plateado Mercurio;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 25 km;49.060 €;629;201;4,4;Azul Oscuro Metalizado;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 4446 km;49.280 €;629;201;4,4;Pintura Plateado Mercurio;España;2024
-Model 3;Gran autonomía con tracción integral;49.810 €;49.810 €;629;201;4,4;Color Blanco Perla Multicapas;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 440 km;49.930 €;629;201;4,4;Color Blanco Perla Multicapas;España;2024
-Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 3362 km;49.990 €;629;201;4,4;Azul Oscuro Metalizado;España;2024
-Model 3;Gran autonomía con tracción integral;50.060 €;50.060 €;629;201;4,4;Pintura en color Gris Sigilo;España;2024
-Model 3;Gran autonomía con tracción integral;50.060 €;50.060 €;629;201;4,4;Color Negro Sólido;España;2024
-Model 3;Gran autonomía con tracción integral;50.060 €;50.060 €;629;201;4,4;Azul Oscuro Metalizado;España;2024
-Model 3;Gran autonomía con tracción integral;50.060 €;50.060 €;629;201;4,4;Azul Oscuro Metalizado;España;2024
-Model Y;Model Y Tracción trasera;Cuentakilómetros con 5949 km;42.750 €;455;217;6,9;Color Negro Sólido;España;2024
-Model Y;Model Y Tracción trasera;Cuentakilómetros con 2798 km;43.440 €;455;217;6,9;Color Negro Sólido;España;2024
-Model Y;Model Y Tracción trasera;44.260 €;44.260 €;455;217;6,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Tracción trasera;Cuentakilómetros con 6282 km;44.490 €;430;217;6,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Tracción trasera;Cuentakilómetros con 6998 km;44.590 €;430;217;6,9;Azul Oscuro Metalizado;España;2024
-Model Y;Model Y Tracción trasera;Cuentakilómetros con 5091 km;44.970 €;430;217;6,9;Color Negro Sólido;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 16.846 km;45.500 €;565;217;5,9;Pintura Plateado Mercurio;España;2024
-Model Y;Model Y Tracción trasera;45.560 €;45.560 €;455;217;6,9;Azul Oscuro Metalizado;España;2024
-Model Y;Model Y Tracción trasera;45.560 €;45.560 €;455;217;6,9;Color Negro Sólido;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 7986 km;45.560 €;565;217;5,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 8013 km;45.560 €;565;217;5,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Tracción trasera;Cuentakilómetros con 1317 km;45.750 €;430;217;6,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Tracción trasera;Cuentakilómetros con 5128 km;45.990 €;430;217;6,9;Azul Oscuro Metalizado;España;2024
-Model Y;Model Y Tracción trasera;Cuentakilómetros con 1011 km;46.790 €;455;217;6,9;Pintura Rojo Cereza Medianoche;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 4075 km;46.830 €;600;217;5,9;Pintura Rojo Cereza Medianoche;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 1991 km;46.930 €;565;217;5,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 3293 km;47.090 €;600;217;5,9;Pintura Rojo Cereza Medianoche;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 4462 km;47.580 €;565;217;5,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Tracción trasera;47.660 €;47.660 €;430;217;6,9;Azul Oscuro Metalizado;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 7085 km;48.110 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 2952 km;48.210 €;600;217;5,9;Pintura Rojo Cereza Medianoche;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 2376 km;48.210 €;565;217;5,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 3274 km;49.030 €;565;217;5,9;Pintura Plateado Mercurio;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 2036 km;49.040 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;49.160 €;49.160 €;600;217;5,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;49.410 €;49.410 €;600;217;5,9;Azul Oscuro Metalizado;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 211 km;49.790 €;565;217;5,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 26 km;49.830 €;565;217;5,9;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 400 km;49.840 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 3723 km;49.970 €;565;217;5,9;Pintura Plateado Mercurio;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;50.160 €;50.160 €;565;217;5,9;Color Negro Sólido;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 4042 km;50.500 €;565;217;5,9;Pintura Rojo Cereza Medianoche;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 3179 km;50.560 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 2501 km;51.020 €;533;217;5;Azul Oscuro Metalizado;España;2024
-Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 5 km;51.070 €;565;217;5,9;Pintura Plateado Mercurio;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 2857 km;51.420 €;533;217;5;Azul Oscuro Metalizado;España;2024
-Model Y;Gran autonomía con tracción integral;51.760 €;51.760 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;51.760 €;51.760 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;51.760 €;51.760 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 1520 km;52.550 €;533;217;5;Color Negro Sólido;España;2024
-Model Y;Gran autonomía con tracción integral;52.810 €;52.810 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 26 km;53.050 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;53.060 €;53.060 €;533;217;5;Color Negro Sólido;España;2024
-Model Y;Gran autonomía con tracción integral;53.060 €;53.060 €;533;217;5;Color Negro Sólido;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 10 km;53.090 €;533;217;5;Color Negro Sólido;España;2024
-Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 565 km;54.910 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;55.070 €;55.070 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;55.070 €;55.070 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Gran autonomía con tracción integral;55.070 €;55.070 €;533;217;5;Color Blanco Perla Multicapas;España;2024
-Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 2276 km;55.220 €;514;250;3,7;Color Blanco Perla Multicapas;España;2024
-2018;75D;Cuentakilómetros con 117.457 km;29.100 €;490;225;4,4;Metalizada plateada;España;2024
-2018;75D;Cuentakilómetros con 70.615 km;33.500 €;490;225;4,4;Pintura negra sólida;España;2024
-2018;75D;Cuentakilómetros con 68.303 km;34.200 €;490;225;4,4;Pintura negra sólida;España;2024
-2023;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 13.178 km;79.500 €;634;250;3,2;Blanco Perla Multicapas;España;2024
-2023;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 12.410 km;80.600 €;634;250;3,2;Negro Sólido;España;2024
-2023;Plaid;Cuentakilómetros con 36.085 km;81.700 €;600;322;2,1;Blanco Perla Multicapas;España;2024
-2023;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 8276 km;83.500 €;634;250;3,2;Negro Sólido;España;2024
-2023;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 6301 km;84.400 €;634;250;3,2;Blanco Perla Multicapas;España;2024
-2023;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 3269 km;86.500 €;634;250;3,2;Ultra Rojo;España;2024
-2023;Plaid;Cuentakilómetros con 15.040 km;87.400 €;600;322;2,1;Blanco Perla Multicapas;España;2024
-2019;Gran autonomía con tracción integral;Cuentakilómetros con 60.048 km;31.400 €;560;233;4,6;Color Negro Sólido;España;2024
-2022;Model 3 Tracción trasera;Cuentakilómetros con 15.291 km;31.600 €;491;225;6,1;Color Negro Sólido;España;2024
-2021;Gran autonomía con tracción integral;Cuentakilómetros con 79.681 km;33.200 €;580;233;4,4;Color Multicapas Rojo;España;2024
-2021;Gran autonomía con tracción integral;Cuentakilómetros con 57.523 km;34.100 €;580;233;4,4;Color Multicapas Rojo;España;2024
-2021;Gran autonomía con tracción integral;Cuentakilómetros con 76.959 km;34.900 €;614;233;4,4;Color Negro Sólido;España;2024
-2023;Model 3 Tracción trasera;Cuentakilómetros con 39.315 km;35.100 €;491;225;6,1;Color Blanco Perla Multicapas;España;2024
-2021;Performance con tracción a las cuatro ruedas de gran autonomía;Cuentakilómetros con 53.081 km;35.300 €;567;261;3,3;Color Multicapas Rojo;España;2024
-2021;Gran autonomía con tracción integral;Cuentakilómetros con 63.771 km;35.900 €;580;233;4,4;Plata Medianoche Metalizado;España;2024
-2021;Gran autonomía con tracción integral;Cuentakilómetros con 26.090 km;35.900 €;580;233;4,4;Color Multicapas Rojo;España;2024
-2021;Gran autonomía con tracción integral;Cuentakilómetros con 42.189 km;36.300 €;580;233;4,4;Color Negro Sólido;España;2024
-2024;Model 3 Tracción trasera;Cuentakilómetros con 1817 km;36.700 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-2024;Model 3 Tracción trasera;Cuentakilómetros con 21 km;37.000 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-2022;Gran autonomía con tracción integral;Cuentakilómetros con 30.168 km;37.100 €;602;233;4,4;Color Multicapas Rojo;España;2024
-2024;Model 3 Tracción trasera;Cuentakilómetros con 676 km;37.300 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-2024;Model 3 Tracción trasera;Cuentakilómetros con 693 km;37.300 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-2024;Model 3 Tracción trasera;Cuentakilómetros con 17 km;37.500 €;513;201;6,1;Color Blanco Perla Multicapas;España;2024
-2022;Gran autonomía con tracción integral;Cuentakilómetros con 20.050 km;37.900 €;602;233;4,4;Azul Oscuro Metalizado;España;2024
-2020;Performance con tracción a las cuatro ruedas de gran autonomía;Cuentakilómetros con 40.205 km;39.600 €;530;261;3,4;Color Negro Sólido;España;2024
-2024;Model 3 Tracción trasera;Cuentakilómetros con 355 km;42.500 €;513;201;6,1;Pintura en color Ultra Rojo;España;2024
-2024;Gran autonomía con tracción integral;Cuentakilómetros con 15.794 km;46.500 €;629;201;4,4;Pintura en color Gris Sigilo;España;2024
-2023;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 29.445 km;47.700 €;547;261;3,3;Color Blanco Perla Multicapas;España;2024
-2023;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 18.395 km;50.100 €;547;261;3,3;Color Multicapas Rojo;España;2024
-2018;100D Gran autonomía;Cuentakilómetros con 108.045 km;52.000 €;565;249;4,9;Metalizada azul profundo;España;2024
-2023;Plaid;Cuentakilómetros con 15.035 km;83.500 €;543;262;2,6;Blanco Perla Multicapas;España;2024
-2023;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 20.759 km;84.000 €;576;250;3,9;Negro Sólido;España;2024
-2023;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 11.765 km;84.500 €;576;250;3,9;Negro Sólido;España;2024
-2023;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 16.910 km;84.500 €;576;250;3,9;Negro Sólido;España;2024
-2023;Plaid;Cuentakilómetros con 21.472 km;86.500 €;543;262;2,6;Plata Medianoche Metalizado;España;2024
-2023;Plaid;Cuentakilómetros con 20.074 km;87.600 €;543;262;2,6;Blanco Perla Multicapas;España;2024
-2024;Model Y Tracción trasera;Cuentakilómetros con 12.146 km;40.500 €;430;217;6,9;Pintura Plateado Mercurio;España;2024
-2023;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 48.582 km;46.800 €;514;250;3,7;Color Negro Sólido;España;2024
+﻿modelo;descripcion;kilometraje;precio;autonomia;velocidad_max;time_veloc_max;color;año;pais
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 6197 km;88.890 €;634;250;3,2;Azul Oscuro Metalizado;2024;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 997 km;90.270 €;634;250;3,2;Azul Oscuro Metalizado;2024;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 577 km;90.520 €;634;250;3,2;Negro Sólido;2024;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 1151 km;91.080 €;634;250;3,2;Pintura en color Gris Sigilo;2024;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 27 km;91.790 €;634;250;3,2;Pintura en color Gris Sigilo;2024;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 16 km;97.500 €;634;250;3,2;Color Plateado Lunar;2024;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 503 km;99.600 €;634;250;3,2;Blanco Perla Multicapas;2024;España
+Model S;Plaid;Cuentakilómetros con 3652 km;101.270 €;600;322;2,1;Negro Sólido;2024;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 98 km;102.270 €;634;250;3,2;Blanco Perla Multicapas;2024;España
+Model S;Model S, tracción a las cuatro ruedas;102.270 €;102.270 €;634;250;3,2;Blanco Perla Multicapas;2024;España
+Model S;Plaid;Cuentakilómetros con 1700 km;102.320 €;600;322;2,1;Negro Sólido;2024;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 0 km;102.330 €;634;250;3,2;Pintura en color Gris Sigilo;2024;España
+Model S;Plaid;Cuentakilómetros con 25 km;111.430 €;600;322;2,1;Color Plateado Lunar;2024;España
+Model S;Plaid;Cuentakilómetros con 21 km;115.240 €;600;322;2,1;Azul Oscuro Metalizado;2024;España
+Model S;Plaid;Cuentakilómetros con 20 km;116.660 €;600;322;2,1;Pintura en color Gris Sigilo;2024;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 3057 km;36.050 €;513;201;6,1;Pintura Plateado Mercurio;2024;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 6578 km;36.190 €;513;201;6,1;Azul Oscuro Metalizado;2024;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 5915 km;37.010 €;513;201;6,1;Pintura Plateado Mercurio;2024;España
+Model 3;Model 3 Tracción trasera;37.770 €;37.770 €;513;201;6,1;Azul Oscuro Metalizado;2024;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 39 km;38.080 €;513;201;6,1;Pintura Plateado Mercurio;2024;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 3906 km;38.300 €;513;201;6,1;Pintura en color Gris Sigilo;2024;España
+Model 3;Model 3 Tracción trasera;38.470 €;38.470 €;513;201;6,1;Pintura Plateado Mercurio;2024;España
+Model 3;Model 3 Tracción trasera;38.470 €;38.470 €;513;201;6,1;Pintura en color Ultra Rojo;2024;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 15 km;38.520 €;513;201;6,1;Pintura en color Ultra Rojo;2024;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 73 km;38.770 €;513;201;6,1;Color Negro Sólido;2024;España
+Model 3;Model 3 Tracción trasera;39.120 €;39.120 €;513;201;6,1;Azul Oscuro Metalizado;2024;España
+Model 3;Model 3 Gran autonomía con tracción trasera;41.470 €;41.470 €;702;201;5,2;Color Blanco Perla Multicapas;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 2203 km;42.640 €;629;201;4,4;Color Blanco Perla Multicapas;2024;España
+Model 3;Model 3 Gran autonomía con tracción trasera;42.770 €;42.770 €;702;201;5,2;Color Negro Sólido;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 4790 km;43.560 €;629;201;4,4;Color Blanco Perla Multicapas;2024;España
+Model 3;Gran autonomía con tracción integral;43.750 €;43.750 €;629;201;4,4;Color Negro Sólido;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 7381 km;43.870 €;629;201;4,4;Pintura Plateado Mercurio;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 6448 km;44.060 €;629;201;4,4;Pintura Plateado Mercurio;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 2051 km;44.360 €;629;201;4,4;Pintura en color Ultra Rojo;2024;España
+Model 3;Model 3 Gran autonomía con tracción trasera;44.370 €;44.370 €;640;201;5,2;Color Negro Sólido;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 13 km;45.070 €;629;201;4,4;Color Negro Sólido;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 222 km;45.220 €;629;201;4,4;Color Negro Sólido;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 1203 km;45.370 €;629;201;4,4;Pintura Plateado Mercurio;2024;España
+Model 3;Gran autonomía con tracción integral;45.470 €;45.470 €;629;201;4,4;Color Blanco Perla Multicapas;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 0 km;45.750 €;629;201;4,4;Pintura Plateado Mercurio;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 26 km;45.770 €;629;201;4,4;Azul Oscuro Metalizado;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 4446 km;45.990 €;629;201;4,4;Pintura Plateado Mercurio;2024;España
+Model 3;Gran autonomía con tracción integral;46.530 €;46.530 €;629;201;4,4;Azul Oscuro Metalizado;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 3380 km;46.600 €;629;201;4,4;Azul Oscuro Metalizado;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 440 km;46.640 €;629;201;4,4;Color Blanco Perla Multicapas;2024;España
+Model 3;Gran autonomía con tracción integral;46.770 €;46.770 €;629;201;4,4;Pintura en color Gris Sigilo;2024;España
+Model 3;Gran autonomía con tracción integral;46.770 €;46.770 €;629;201;4,4;Azul Oscuro Metalizado;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 13 km;46.990 €;629;201;4,4;Pintura Plateado Mercurio;2024;España
+Model 3;Gran autonomía con tracción integral;47.470 €;47.470 €;629;201;4,4;Pintura Plateado Mercurio;2024;España
+Model 3;Gran autonomía con tracción integral;48.120 €;48.120 €;629;201;4,4;Pintura en color Gris Sigilo;2024;España
+Model 3;Gran autonomía con tracción integral;48.370 €;48.370 €;629;201;4,4;Pintura en color Gris Sigilo;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 20 km;49.070 €;629;201;4,4;Color Blanco Perla Multicapas;2024;España
+Model 3;Gran autonomía con tracción integral;49.420 €;49.420 €;629;201;4,4;Pintura en color Gris Sigilo;2024;España
+Model 3;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 3853 km;54.660 €;528;262;3,1;Color Negro Sólido;2024;España
+Model 3;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 3325 km;54.860 €;528;262;3,1;Pintura en color Gris Sigilo;2024;España
+Model 3;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 1726 km;55.390 €;528;262;3,1;Color Negro Sólido;2024;España
+Model 3;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 13 km;56.020 €;528;262;3,1;Pintura en color Gris Sigilo;2024;España
+Model 3;Performance con tracción a las cuatro ruedas;59.770 €;59.770 €;528;262;3,1;Azul Oscuro Metalizado;2024;España
+Model 3;Performance con tracción a las cuatro ruedas;59.770 €;59.770 €;528;262;3,1;Color Negro Sólido;2024;España
+Model 3;Performance con tracción a las cuatro ruedas;60.820 €;60.820 €;528;262;3,1;Color Negro Sólido;2024;España
+Model 3;Performance con tracción a las cuatro ruedas;60.820 €;60.820 €;528;262;3,1;Pintura en color Gris Sigilo;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 3648 km;95.860 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 5936 km;100.160 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 4086 km;100.570 €;576;250;3,9;Negro Sólido;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 1015 km;100.940 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 5681 km;102.220 €;576;250;3,9;Negro Sólido;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 1405 km;102.640 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Model X, tracción a las cuatro ruedas;104.370 €;104.370 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 208 km;104.730 €;576;250;3,9;Pintura en color Gris Sigilo;2024;España
+Model X;Plaid;Cuentakilómetros con 34 km;106.050 €;543;262;2,6;Blanco Perla Multicapas;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 3295 km;106.910 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Model X, tracción a las cuatro ruedas;107.870 €;107.870 €;576;250;3,9;Color Plateado Lunar;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 23 km;109.540 €;576;250;3,9;Color Plateado Lunar;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 3206 km;109.710 €;576;250;3,9;Negro Sólido;2024;España
+Model X;Model X, tracción a las cuatro ruedas;110.270 €;110.270 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Plaid;Cuentakilómetros con 60 km;111.440 €;543;262;2,6;Blanco Perla Multicapas;2024;España
+Model X;Plaid;Cuentakilómetros con 32 km;113.820 €;543;262;2,6;Pintura en color Gris Sigilo;2024;España
+Model X;Model X, tracción a las cuatro ruedas;115.670 €;115.670 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Model X, tracción a las cuatro ruedas;116.170 €;116.170 €;576;250;3,9;Negro Sólido;2024;España
+Model X;Model X, tracción a las cuatro ruedas;118.070 €;118.070 €;576;250;3,9;Plata Medianoche Metalizado;2024;España
+Model X;Model X, tracción a las cuatro ruedas;118.070 €;118.070 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 92 km;118.070 €;576;250;3,9;Blanco Perla Multicapas;2024;España
+Model X;Plaid;Cuentakilómetros con 0 km;118.720 €;543;262;2,6;Color Plateado Lunar;2024;España
+Model X;Model X, tracción a las cuatro ruedas;119.670 €;119.670 €;576;250;3,9;Negro Sólido;2024;España
+Model X;Plaid;Cuentakilómetros con 25 km;119.820 €;543;262;2,6;Ultra Rojo;2024;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 8864 km;42.140 €;455;217;6,9;Color Negro Sólido;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 18.609 km;42.150 €;600;217;5,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 5950 km;42.670 €;455;217;6,9;Color Negro Sólido;2024;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 2582 km;43.780 €;455;217;6,9;Pintura Plateado Mercurio;2024;España
+Model Y;Model Y Tracción trasera;44.260 €;44.260 €;455;217;6,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 6314 km;44.390 €;430;217;6,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 5673 km;44.770 €;430;217;6,9;Color Negro Sólido;2024;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 31 km;45.090 €;455;217;6,9;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Model Y Tracción trasera;45.310 €;45.310 €;455;217;6,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 17.306 km;45.370 €;565;217;5,9;Pintura Plateado Mercurio;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 8712 km;45.370 €;565;217;5,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 8297 km;45.420 €;565;217;5,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Tracción trasera;45.560 €;45.560 €;455;217;6,9;Azul Oscuro Metalizado;2024;España
+Model Y;Model Y Tracción trasera;45.560 €;45.560 €;455;217;6,9;Color Negro Sólido;2024;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 1317 km;45.660 €;430;217;6,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 5127 km;45.890 €;430;217;6,9;Azul Oscuro Metalizado;2024;España
+Model Y;Model Y Tracción trasera;46.360 €;46.360 €;430;217;6,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 4317 km;46.700 €;600;217;5,9;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 1011 km;46.720 €;455;217;6,9;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;46.760 €;46.760 €;600;217;5,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 1991 km;46.840 €;565;217;5,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Tracción trasera;46.860 €;46.860 €;455;217;6,9;Pintura Plateado Mercurio;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 3485 km;46.950 €;600;217;5,9;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;47.140 €;47.140 €;565;217;5,9;Color Negro Sólido;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 4460 km;47.490 €;565;217;5,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Tracción trasera;47.660 €;47.660 €;430;217;6,9;Azul Oscuro Metalizado;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 7086 km;48.060 €;533;217;5;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;48.060 €;48.060 €;600;217;5,9;Azul Oscuro Metalizado;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;48.060 €;48.060 €;600;217;5,9;Color Negro Sólido;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 2545 km;48.070 €;565;217;5,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 3294 km;48.930 €;565;217;5,9;Pintura Plateado Mercurio;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 2036 km;49.040 €;533;217;5;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;49.110 €;49.110 €;600;217;5,9;Color Negro Sólido;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;49.360 €;49.360 €;600;217;5,9;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;49.410 €;49.410 €;600;217;5,9;Azul Oscuro Metalizado;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 948 km;49.460 €;565;217;5,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 55 km;49.740 €;565;217;5,9;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 4018 km;49.830 €;565;217;5,9;Pintura Plateado Mercurio;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 401 km;49.840 €;533;217;5;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 4042 km;50.400 €;565;217;5,9;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;50.410 €;50.410 €;600;217;5,9;Pintura Plateado Mercurio;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 2501 km;50.950 €;533;217;5;Azul Oscuro Metalizado;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 5 km;50.980 €;565;217;5,9;Pintura Plateado Mercurio;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 12.454 km;51.260 €;533;217;5;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 2857 km;51.420 €;533;217;5;Azul Oscuro Metalizado;2024;España
+Model Y;Gran autonomía con tracción integral;51.760 €;51.760 €;533;217;5;Color Blanco Perla Multicapas;2024;España
+Model Y;Gran autonomía con tracción integral;51.760 €;51.760 €;533;217;5;Color Blanco Perla Multicapas;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;51.760 €;51.760 €;600;217;5,9;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Model Y Gran autonomía con tracción trasera;Cuentakilómetros con 689 km;51.820 €;565;217;5,9;Pintura Plateado Mercurio;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 1523 km;52.480 €;533;217;5;Color Negro Sólido;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 1523 km;52.480 €;533;217;5;Color Negro Sólido;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 4260 km;52.920 €;533;217;5;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 12 km;52.990 €;533;217;5;Color Negro Sólido;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 26 km;53.050 €;533;217;5;Color Blanco Perla Multicapas;2024;España
+Model Y;Gran autonomía con tracción integral;53.060 €;53.060 €;533;217;5;Color Negro Sólido;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 565 km;54.910 €;533;217;5;Color Blanco Perla Multicapas;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 2291 km;55.140 €;514;250;3,7;Color Blanco Perla Multicapas;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 9 km;55.350 €;533;217;5;Color Blanco Perla Multicapas;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 0 km;55.640 €;514;250;3,7;Color Blanco Perla Multicapas;2024;España
+Model Y;Gran autonomía con tracción integral;56.420 €;56.420 €;533;217;5;Color Blanco Perla Multicapas;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 612 km;56.740 €;514;250;3,7;Azul Oscuro Metalizado;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 23 km;56.870 €;514;250;3,7;Pintura Plateado Mercurio;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 95 km;56.870 €;514;250;3,7;Pintura Plateado Mercurio;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 7 km;58.350 €;514;250;3,7;Color Blanco Perla Multicapas;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 179 km;58.810 €;514;250;3,7;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;58.920 €;58.920 €;514;250;3,7;Pintura Rojo Cereza Medianoche;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;58.970 €;58.970 €;514;250;3,7;Color Blanco Perla Multicapas;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;58.970 €;58.970 €;514;250;3,7;Azul Oscuro Metalizado;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 53 km;59.360 €;514;250;3,7;Pintura Plateado Mercurio;2024;España
+Model Y;Gran autonomía con tracción integral;Cuentakilómetros con 831 km;59.960 €;533;217;5;Pintura Plateado Mercurio;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;60.270 €;60.270 €;514;250;3,7;Azul Oscuro Metalizado;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 395 km;61.500 €;514;250;3,7;Color Negro Sólido;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;61.620 €;61.620 €;514;250;3,7;Color Negro Sólido;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;66.420 €;66.420 €;514;250;3,7;Pintura Rojo Cereza Medianoche;2024;España
+Model S;75D;Cuentakilómetros con 117.457 km;28.900 €;490;225;4,4;Metalizada plateada;2018;España
+Model S;75D;Cuentakilómetros con 115.551 km;31.200 €;490;225;4,4;Metalizada negra obsidiana;2018;España
+Model S;75D;Cuentakilómetros con 70.615 km;33.200 €;490;225;4,4;Pintura negra sólida;2018;España
+Model S;75D;Cuentakilómetros con 68.303 km;33.900 €;490;225;4,4;Pintura negra sólida;2018;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 13.184 km;77.200 €;634;250;3,2;Blanco Perla Multicapas;2023;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 12.410 km;78.800 €;634;250;3,2;Negro Sólido;2023;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 8276 km;79.900 €;634;250;3,2;Negro Sólido;2023;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 6301 km;81.800 €;634;250;3,2;Blanco Perla Multicapas;2023;España
+Model S;Model S, tracción a las cuatro ruedas;Cuentakilómetros con 3269 km;83.600 €;634;250;3,2;Ultra Rojo;2023;España
+Model S;Plaid;Cuentakilómetros con 15.046 km;85.700 €;600;322;2,1;Blanco Perla Multicapas;2023;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 60.048 km;28.900 €;560;233;4,6;Color Negro Sólido;2019;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 37.725 km;30.800 €;491;225;6,1;Plata Medianoche Metalizado;2022;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 15.291 km;31.600 €;491;225;6,1;Color Negro Sólido;2022;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 73.607 km;32.400 €;560;233;4,6;Color Negro Sólido;2020;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 79.681 km;32.500 €;580;233;4,4;Color Multicapas Rojo;2021;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 63.771 km;33.000 €;580;233;4,4;Plata Medianoche Metalizado;2021;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 76.961 km;33.000 €;614;233;4,4;Color Negro Sólido;2021;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 57.523 km;33.500 €;580;233;4,4;Color Multicapas Rojo;2021;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 39.315 km;33.500 €;491;225;6,1;Color Blanco Perla Multicapas;2023;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 42.191 km;34.000 €;580;233;4,4;Color Negro Sólido;2021;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 26.091 km;34.900 €;580;233;4,4;Color Multicapas Rojo;2021;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 1817 km;36.000 €;513;201;6,1;Color Blanco Perla Multicapas;2024;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 676 km;37.000 €;513;201;6,1;Color Blanco Perla Multicapas;2024;España
+Model 3;Model 3 Tracción trasera;Cuentakilómetros con 728 km;37.000 €;513;201;6,1;Color Blanco Perla Multicapas;2024;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 30.168 km;37.100 €;602;233;4,4;Color Multicapas Rojo;2022;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 37.484 km;39.500 €;602;233;4,4;Azul Oscuro Metalizado;2022;España
+Model 3;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 29.447 km;42.300 €;547;261;3,3;Color Blanco Perla Multicapas;2023;España
+Model 3;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 18.395 km;43.200 €;547;261;3,3;Color Multicapas Rojo;2023;España
+Model 3;Gran autonomía con tracción integral;Cuentakilómetros con 15.795 km;45.000 €;629;201;4,4;Pintura en color Gris Sigilo;2024;España
+Model X;100D Gran autonomía;Cuentakilómetros con 108.045 km;47.900 €;565;249;4,9;Metalizada azul profundo;2018;España
+Model X;Model X, tracción a las cuatro ruedas;Cuentakilómetros con 11.765 km;82.500 €;576;250;3,9;Negro Sólido;2023;España
+Model X;Plaid;Cuentakilómetros con 20.074 km;84.000 €;543;262;2,6;Blanco Perla Multicapas;2023;España
+Model X;Plaid;Cuentakilómetros con 15.048 km;84.600 €;543;262;2,6;Blanco Perla Multicapas;2023;España
+Model X;Plaid;Cuentakilómetros con 21.475 km;85.500 €;543;262;2,6;Plata Medianoche Metalizado;2023;España
+Model Y;Model Y Tracción trasera;Cuentakilómetros con 12.146 km;40.500 €;430;217;6,9;Pintura Plateado Mercurio;2024;España
+Model Y;Performance con tracción a las cuatro ruedas;Cuentakilómetros con 48.582 km;43.800 €;514;250;3,7;Color Negro Sólido;2023;España
