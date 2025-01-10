@@ -16,3 +16,7 @@ profile.to_file("C:/Users/galla/Dropbox/PC/Documents/1 Pedro G Gallardo/Master I
 df = pd.read_csv('data_prepared_dummies.csv', sep=';')
 profile = ProfileReport(df, title="data_prepared_dummies Report")
 profile.to_file("C:/Users/galla/Dropbox/PC/Documents/1 Pedro G Gallardo/Master IA y Big Data/Casa/proyecto tesla/ProyectoTesla/data/data_prepared/data_prepared_dummies.html")
+
+df = pd.read_csv('data_prepared_dummies_outlier.csv', sep=';')
+profile = ProfileReport(df, title="data_prepared_dummies Outlier Report")
+profile.to_file("C:/Users/galla/Dropbox/PC/Documents/1 Pedro G Gallardo/Master IA y Big Data/Casa/proyecto tesla/ProyectoTesla/data/data_prepared/data_prepared_dummies_outlier.html")
