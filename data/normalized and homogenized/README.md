@@ -1,0 +1,1 @@
+- Los ficheros cuya extensión es .html muestran un informe detallado (EDA) de los csv 
