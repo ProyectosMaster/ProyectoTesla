@@ -1,0 +1,1 @@
+- Datos directamente recopilados de las distintas webs mediante web scraping
