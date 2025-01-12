@@ -1,0 +1,1 @@
+- Los archivos profiling generan los EDA de los archivos csv que se encuentran en la carpeta data
