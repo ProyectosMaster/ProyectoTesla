@@ -1,1 +1,2 @@
-
+- Los archivos cuyo nombre acaban en _fact significa que algunas columnas se han sometido a factorizacion
+- Los archivos cuyo nonbre acaban en _dummies significa que algunas columnas se han sometido a OneHotEncoding
